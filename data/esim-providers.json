@@ -1,0 +1,11 @@
+{
+  "note": "Plan structures and policies summarised from each provider's public pages and independent reviews (checked Nov 2026). Fair-use thresholds change; confirm on the provider's site before buying.",
+  "providers": [
+    {"name":"Airalo","url":"https://www.airalo.com/","plans":"Fixed data, unlimited, regional and global packs","hotspot":"Allowed on most plans","fairUse":"Unlimited packs slow down after a daily threshold","calls":"Mostly data-only; selected global plans add calls/texts","bestFor":"Widest choice of plan formats across 200+ destinations"},
+    {"name":"Holafly","url":"https://esim.holafly.com/","plans":"Unlimited day-based plans (1–90 days) and monthly global subscription","hotspot":"Allowed with a daily sharing cap on standard plans","fairUse":"Daily sharing limits; speed policies vary","calls":"Data-only travel plans; inbound-SMS number on subscription","bestFor":"Heavy users who want to pick exact trip length"},
+    {"name":"Saily","url":"https://saily.com/","plans":"Fixed data and unlimited, regional and global","hotspot":"Allowed","fairUse":"Unlimited slows after a daily threshold","calls":"Data-only","bestFor":"Low entry prices plus built-in security features"},
+    {"name":"Nomad","url":"https://www.nomadesim.com/","plans":"Fixed data and unlimited with add-on top-ups","hotspot":"Included","fairUse":"Check plan page","calls":"Mainly data-only","bestFor":"Fixed-data value in Asia and Europe"},
+    {"name":"Ubigi","url":"https://www.ubigi.com/","plans":"Fixed data packs by country, region and global","hotspot":"Allowed","fairUse":"Fixed allowances (no unlimited throttling surprises)","calls":"Data-only","bestFor":"Business travellers and laptops/tablets with eSIM"},
+    {"name":"eSIMDB (comparison)","url":"https://esimdb.com/","plans":"Directory comparing hundreds of thousands of plans from 150+ providers","hotspot":"Filterable","fairUse":"Listed per plan","calls":"Filterable","bestFor":"Checking the cheapest plan for a specific country"}
+  ]
+}

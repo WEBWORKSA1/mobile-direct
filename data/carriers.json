@@ -1,0 +1,85 @@
+{
+  "note": "Type: 'Network' = owns radio network; 'Sub-brand' = budget brand owned by a network; 'MVNO' = independent brand renting capacity. Always confirm current prices on the carrier's own site.",
+  "countries": {
+    "US": {
+      "name": "United States",
+      "currency": "USD",
+      "bands": {"light": [10, 20], "medium": [15, 30], "heavy": [25, 40], "unlimited": [25, 45], "premium": [65, 95]},
+      "carriers": [
+        {"name":"Verizon","type":"Network","network":"Verizon","url":"https://www.verizon.com/","bestFor":["coverage","premium"]},
+        {"name":"AT&T","type":"Network","network":"AT&T","url":"https://www.att.com/","bestFor":["coverage","premium"]},
+        {"name":"T-Mobile","type":"Network","network":"T-Mobile","url":"https://www.t-mobile.com/","bestFor":["5g","travel","premium"]},
+        {"name":"Visible","type":"Sub-brand","network":"Verizon","url":"https://www.visible.com/","bestFor":["price","coverage"]},
+        {"name":"Mint Mobile","type":"Sub-brand","network":"T-Mobile","url":"https://www.mintmobile.com/","bestFor":["price","5g"]},
+        {"name":"Metro by T-Mobile","type":"Sub-brand","network":"T-Mobile","url":"https://www.metrobyt-mobile.com/","bestFor":["price"]},
+        {"name":"Cricket Wireless","type":"Sub-brand","network":"AT&T","url":"https://www.cricketwireless.com/","bestFor":["price","coverage"]},
+        {"name":"Straight Talk","type":"Sub-brand","network":"Multiple","url":"https://www.straighttalk.com/","bestFor":["price"]},
+        {"name":"US Mobile","type":"MVNO","network":"Multiple","url":"https://www.usmobile.com/","bestFor":["price","coverage","travel"]},
+        {"name":"Google Fi","type":"MVNO","network":"T-Mobile","url":"https://fi.google.com/","bestFor":["travel"]},
+        {"name":"Tello","type":"MVNO","network":"T-Mobile","url":"https://tello.com/","bestFor":["price"]},
+        {"name":"Boost Mobile","type":"Network","network":"Boost + roaming","url":"https://www.boostmobile.com/","bestFor":["price"]}
+      ]
+    },
+    "CA": {
+      "name": "Canada",
+      "currency": "CAD",
+      "bands": {"light": [15, 30], "medium": [25, 40], "heavy": [34, 50], "unlimited": [40, 65], "premium": [65, 95]},
+      "carriers": [
+        {"name":"Bell","type":"Network","network":"Bell","url":"https://www.bell.ca/","bestFor":["coverage","premium"]},
+        {"name":"Rogers","type":"Network","network":"Rogers","url":"https://www.rogers.com/","bestFor":["coverage","premium","5g"]},
+        {"name":"Telus","type":"Network","network":"Telus","url":"https://www.telus.com/","bestFor":["coverage","premium"]},
+        {"name":"Freedom Mobile","type":"Network","network":"Freedom","url":"https://www.freedommobile.ca/","bestFor":["price","travel"]},
+        {"name":"Vidéotron","type":"Network","network":"Vidéotron","url":"https://www.videotron.com/","bestFor":["price"]},
+        {"name":"Fido","type":"Sub-brand","network":"Rogers","url":"https://www.fido.ca/","bestFor":["price","coverage"]},
+        {"name":"Koodo","type":"Sub-brand","network":"Telus","url":"https://www.koodomobile.com/","bestFor":["price","coverage"]},
+        {"name":"Virgin Plus","type":"Sub-brand","network":"Bell","url":"https://www.virginplus.ca/","bestFor":["price","coverage"]},
+        {"name":"Public Mobile","type":"Sub-brand","network":"Telus","url":"https://www.publicmobile.ca/","bestFor":["price"]},
+        {"name":"Fizz","type":"Sub-brand","network":"Vidéotron","url":"https://fizz.ca/","bestFor":["price"]},
+        {"name":"Lucky Mobile","type":"Sub-brand","network":"Bell","url":"https://www.luckymobile.ca/","bestFor":["price"]},
+        {"name":"Chatr","type":"Sub-brand","network":"Rogers","url":"https://www.chatrwireless.com/","bestFor":["price"]}
+      ]
+    },
+    "UK": {
+      "name": "United Kingdom",
+      "currency": "GBP",
+      "bands": {"light": [4, 8], "medium": [6, 12], "heavy": [8, 15], "unlimited": [12, 25], "premium": [20, 35]},
+      "carriers": [
+        {"name":"EE","type":"Network","network":"EE","url":"https://ee.co.uk/","bestFor":["coverage","5g","premium"]},
+        {"name":"O2","type":"Network","network":"O2","url":"https://www.o2.co.uk/","bestFor":["coverage","premium"]},
+        {"name":"Vodafone","type":"Network","network":"Vodafone","url":"https://www.vodafone.co.uk/","bestFor":["coverage","travel"]},
+        {"name":"Three","type":"Network","network":"Three","url":"https://www.three.co.uk/","bestFor":["5g","price"]},
+        {"name":"giffgaff","type":"MVNO","network":"O2","url":"https://www.giffgaff.com/","bestFor":["price"]},
+        {"name":"Tesco Mobile","type":"MVNO","network":"O2","url":"https://www.tescomobile.com/","bestFor":["price"]},
+        {"name":"iD Mobile","type":"MVNO","network":"Three","url":"https://www.idmobile.co.uk/","bestFor":["price","travel"]},
+        {"name":"Smarty","type":"Sub-brand","network":"Three","url":"https://smarty.co.uk/","bestFor":["price"]},
+        {"name":"VOXI","type":"Sub-brand","network":"Vodafone","url":"https://www.voxi.co.uk/","bestFor":["price"]},
+        {"name":"Lebara","type":"MVNO","network":"Vodafone","url":"https://www.lebara.co.uk/","bestFor":["price","travel"]},
+        {"name":"Sky Mobile","type":"MVNO","network":"O2","url":"https://www.sky.com/shop/mobile","bestFor":["premium"]}
+      ]
+    },
+    "IN": {
+      "name": "India",
+      "currency": "INR",
+      "bands": {"light": [199, 299], "medium": [299, 449], "heavy": [349, 599], "unlimited": [449, 799], "premium": [699, 1499]},
+      "carriers": [
+        {"name":"Jio","type":"Network","network":"Jio","url":"https://www.jio.com/","bestFor":["price","5g","coverage"]},
+        {"name":"Airtel","type":"Network","network":"Airtel","url":"https://www.airtel.in/","bestFor":["coverage","5g","premium","travel"]},
+        {"name":"Vi (Vodafone Idea)","type":"Network","network":"Vi","url":"https://www.myvi.in/","bestFor":["price"]},
+        {"name":"BSNL","type":"Network","network":"BSNL","url":"https://www.bsnl.co.in/","bestFor":["price"]}
+      ]
+    },
+    "AU": {
+      "name": "Australia",
+      "currency": "AUD",
+      "bands": {"light": [10, 20], "medium": [20, 35], "heavy": [30, 45], "unlimited": [45, 70], "premium": [65, 99]},
+      "carriers": [
+        {"name":"Telstra","type":"Network","network":"Telstra","url":"https://www.telstra.com.au/","bestFor":["coverage","premium","5g"]},
+        {"name":"Optus","type":"Network","network":"Optus","url":"https://www.optus.com.au/","bestFor":["coverage","5g"]},
+        {"name":"Vodafone AU","type":"Network","network":"TPG Telecom","url":"https://www.vodafone.com.au/","bestFor":["price","travel"]},
+        {"name":"Boost Mobile","type":"MVNO","network":"Telstra","url":"https://boost.com.au/","bestFor":["coverage","price"]},
+        {"name":"Belong","type":"Sub-brand","network":"Telstra","url":"https://www.belong.com.au/","bestFor":["price"]},
+        {"name":"amaysim","type":"Sub-brand","network":"Optus","url":"https://www.amaysim.com.au/","bestFor":["price"]}
+      ]
+    }
+  }
+}

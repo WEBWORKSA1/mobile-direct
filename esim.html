@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" data-root="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Travel eSIM hub: planner, checker and providers | Mobile.Direct</title>
+<meta name="description" content="Estimate travel data for your trip, check whether your phone supports eSIM and compare travel eSIM providers.">
+<link rel="canonical" href="https://mobile.direct/esim.html">
+<meta name="robots" content="index,follow">
+<meta property="og:site_name" content="Mobile.Direct">
+<meta property="og:title" content="Travel eSIM hub: planner, checker and providers">
+<meta property="og:description" content="Estimate travel data for your trip, check whether your phone supports eSIM and compare travel eSIM providers.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mobile.direct/esim.html">
+<meta property="og:image" content="https://mobile.direct/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#14202B">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/img/icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&amp;display=swap">
+<link rel="stylesheet" href="assets/css/site.css?v=fecccf9c">
+<script>try{var t=localStorage.getItem('md-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"eSIM","item":"https://mobile.direct/esim.html"}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need to be on Wi-Fi to install a travel eSIM?","acceptedAnswer":{"@type":"Answer","text":"Yes, the profile downloads over the internet. Install it at home before you leave and switch it on when you land."}},{"@type":"Question","name":"Will I still receive calls on my normal number?","acceptedAnswer":{"@type":"Answer","text":"Yes, if you keep your home line enabled. Incoming calls may cost roaming charges depending on your plan."}},{"@type":"Question","name":"What does fair use mean on unlimited eSIMs?","acceptedAnswer":{"@type":"Answer","text":"Most unlimited travel plans slow your speed after a daily amount of high-speed data. Check the threshold on the provider's plan page."}}]}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar"><div class="wrap"><a href="https://web.works/contact" target="_blank" rel="noopener">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership</a></div></div>
+<header class="site-header"><div class="wrap">
+<a class="logo" href="index.html" aria-label="Mobile.Direct home"><span class="logo-bars" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>Mobile<span class="dot">.</span>Direct</span></a>
+<nav class="nav" id="site-nav" aria-label="Main"><ul><li><a href="phones.html">Phones</a></li><li><a href="plans.html">Plans</a></li><li><a href="esim.html" aria-current="page">eSIM</a></li><li><a href="trade-in.html">Trade-in</a></li><li><a href="tools.html">Tools</a></li><li><a href="guides.html">Guides</a></li><li><a href="news.html">News</a></li><li><a href="videos.html">Videos</a></li></ul></nav>
+<div class="header-actions">
+<button class="icon-btn" id="theme-toggle" type="button" aria-label="Switch colour theme"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></svg></button>
+<button class="icon-btn menu-btn" id="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open menu"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2"/></svg></button>
+<a class="btn btn-sm btn-gold" href="get-matched.html">Get matched</a>
+</div></div></header>
+<main id="main">
+
+<section class="page-head"><div class="wrap"><p class="crumbs"><a href="index.html">Home</a> / eSIM</p><h1>Travel eSIM hub</h1><p class="lede">Work out how much data your trip needs, check your phone takes an eSIM, and compare the main providers.</p></div></section>
+<section class="section" style="padding-top:0"><div class="wrap">
+<div class="tool" id="tool-trip">
+<div class="tool-in"><h2>Travel eSIM planner</h2>
+<div class="field"><label for="tr-country">Destination</label><select id="tr-country"></select></div>
+<div class="grid-2"><div class="field"><label for="tr-days">Days</label><input id="tr-days" type="number" min="1" value="10"></div>
+<div class="field"><label for="tr-use">How you use data</label><select id="tr-use"><option value="0.3">Light: maps and messages</option><option value="0.8" selected>Moderate: social, photos, some video</option><option value="1.5">Heavy: video and calls</option><option value="3">Hotspot for a laptop</option></select></div></div>
+<ul class="result-list" id="tr-bands"></ul><p class="small"><a id="tr-bandlink" href="tools.html#bands">Check your phone against these bands</a></p>
+</div>
+<div class="tool-out" aria-live="polite"><p class="small">Data to buy (20% buffer included)</p><p class="big-out" id="tr-out">0 GB</p><p id="tr-rec"></p>
+<form data-md-form="eSIM trip plan request" data-success="Sent. Your trip plan and the best current eSIM offers for it are on their way.">
+<h3>Email me this trip plan with current offers</h3>
+<div class="field"><label for="tr-email">Email</label><input id="tr-email" name="email" type="email" required autocomplete="email"></div>
+<input type="hidden" name="trip" id="tr-summary"><input class="hp" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+<div class="field"><label class="check"><input type="checkbox" name="consent" value="yes" required> <span>I agree that Mobile.Direct may email me about this trip plan and related offers. I can opt out at any time. See the <a href="privacy.html">privacy policy</a>.</span></label></div>
+<button class="btn btn-gold" type="submit">Email my trip plan</button><p class="form-status" role="status"></p></form>
+</div>
+</div>
+<div class="tool" id="tool-esim">
+<div class="tool-in"><h2>eSIM compatibility checker</h2>
+<div class="grid-2"><div class="field"><label for="es-brand">Brand</label><select id="es-brand"></select></div>
+<div class="field"><label for="es-model">Model</label><select id="es-model"></select></div></div>
+<h3>The 10-second test for any phone</h3>
+<p>Open the phone app and dial <strong>*#06#</strong>. If an <strong>EID</strong> (a 32-digit number) appears, your phone supports eSIM. The phone must also be unlocked to add an eSIM from another provider.</p>
+</div>
+<div class="tool-out" aria-live="polite"><p class="small">Result</p><p id="es-out" class="big-out" style="font-size:1.6rem"></p><p id="es-note"></p>
+<a class="btn" href="esim.html">Plan a trip with eSIM</a></div>
+</div>
+</div></section>
+<section class="section"><div class="wrap">
+<div class="section-head"><div><h2>Travel eSIM providers compared</h2><p>What each provider sells and the terms that matter. Policies change; check the plan page before buying.</p></div></div>
+<div class="table-wrap"><table><thead><tr><th scope="col">Provider</th><th scope="col">Plans</th><th scope="col">Hotspot</th><th scope="col">Fair use</th><th scope="col">Best for</th></tr></thead><tbody><tr><td><a href='https://www.airalo.com/' rel='nofollow sponsored noopener' target='_blank'>Airalo</a></td><td>Fixed data, unlimited, regional and global packs</td><td>Allowed on most plans</td><td>Unlimited packs slow down after a daily threshold</td><td>Widest choice of plan formats across 200+ destinations</td></tr><tr><td><a href='https://esim.holafly.com/' rel='nofollow sponsored noopener' target='_blank'>Holafly</a></td><td>Unlimited day-based plans (1–90 days) and monthly global subscription</td><td>Allowed with a daily sharing cap on standard plans</td><td>Daily sharing limits; speed policies vary</td><td>Heavy users who want to pick exact trip length</td></tr><tr><td><a href='https://saily.com/' rel='nofollow sponsored noopener' target='_blank'>Saily</a></td><td>Fixed data and unlimited, regional and global</td><td>Allowed</td><td>Unlimited slows after a daily threshold</td><td>Low entry prices plus built-in security features</td></tr><tr><td><a href='https://www.nomadesim.com/' rel='nofollow sponsored noopener' target='_blank'>Nomad</a></td><td>Fixed data and unlimited with add-on top-ups</td><td>Included</td><td>Check plan page</td><td>Fixed-data value in Asia and Europe</td></tr><tr><td><a href='https://www.ubigi.com/' rel='nofollow sponsored noopener' target='_blank'>Ubigi</a></td><td>Fixed data packs by country, region and global</td><td>Allowed</td><td>Fixed allowances (no unlimited throttling surprises)</td><td>Business travellers and laptops/tablets with eSIM</td></tr><tr><td><a href='https://esimdb.com/' rel='nofollow sponsored noopener' target='_blank'>eSIMDB (comparison)</a></td><td>Directory comparing hundreds of thousands of plans from 150+ providers</td><td>Filterable</td><td>Listed per plan</td><td>Checking the cheapest plan for a specific country</td></tr></tbody></table></div>
+<p class="small">Outbound links may become affiliate links. That never changes the order or the notes in this table.</p>
+<div class="ad-slot" data-slot="inArticle"></div>
+</div></section>
+<section class="section"><div class="wrap lead-grid">
+<div><h2>Before you fly</h2><ol>
+<li>Confirm your phone is unlocked.</li>
+<li>Check the destination's bands with the <a href="tools.html#bands">band checker</a>.</li>
+<li>Install the eSIM at home on Wi-Fi; leave it switched off.</li>
+<li>Turn off data roaming on your home line.</li>
+<li>Download offline maps as a backup.</li></ol>
+<p>Read more: <a href="guides/what-is-esim.html">eSIM explained</a> and <a href="guides/travel-data-roaming-vs-esim.html">roaming vs travel eSIM</a>.</p></div>
+<div><h2>Questions</h2><div class="faq"><details><summary>Do I need to be on Wi-Fi to install a travel eSIM?</summary><p>Yes, the profile downloads over the internet. Install it at home before you leave and switch it on when you land.</p></details><details><summary>Will I still receive calls on my normal number?</summary><p>Yes, if you keep your home line enabled. Incoming calls may cost roaming charges depending on your plan.</p></details><details><summary>What does fair use mean on unlimited eSIMs?</summary><p>Most unlimited travel plans slow your speed after a daily amount of high-speed data. Check the threshold on the provider&#x27;s plan page.</p></details></div></div>
+</div></section>
+
+</main>
+<footer class="site-footer"><div class="wrap">
+<div class="foot-grid">
+<div>
+<a class="logo" href="index.html"><span class="logo-bars" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>Mobile<span class="dot">.</span>Direct</span></a>
+<p class="small" style="margin-top:12px">Independent tools and guides for choosing phones, plans and eSIMs.</p>
+<form class="newsletter-form" data-md-form="Newsletter signup" data-success="Subscribed. The next deals and plan-change briefing lands in your inbox on Thursday.">
+<label for="nl-email">Weekly plan and phone deals briefing</label>
+<div class="newsletter"><input id="nl-email" type="email" name="email" required autocomplete="email" placeholder="you@example.com"><button class="btn btn-sm" type="submit">Subscribe</button></div>
+<input class="hp" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+<p class="form-status small" role="status"></p>
+</form>
+<p class="small">Data last refreshed <time data-last-updated>recently</time>.</p>
+</div>
+<div><h2>Compare</h2><ul><li><a href="phones.html">Phone finder</a></li><li><a href="plans.html">Plans and carriers</a></li><li><a href="esim.html">Travel eSIM</a></li><li><a href="trade-in.html">Trade-in value</a></li><li><a href="deals.html">Deal calendar</a></li></ul></div>
+<div><h2>Learn</h2><ul><li><a href="tools.html">All tools</a></li><li><a href="guides.html">Guides</a></li><li><a href="news.html">News</a></li><li><a href="videos.html">Videos</a></li><li><a href="get-matched.html">Plan match</a></li></ul></div>
+<div><h2>Get involved</h2><ul><li><a href="support.html">Support Mobile.Direct</a></li><li><a href="contests.html">Contests and prizes</a></li><li><a href="careers.html">Careers</a></li><li><a href="advertise.html">Advertise and partner</a></li><li><a href="business.html">Business quotes</a></li></ul></div>
+<div><h2>About</h2><ul><li><a href="about.html">About and methodology</a></li><li><a href="contact.html">Contact</a></li><li><a href="privacy.html">Privacy policy</a></li><li><a href="terms.html">Terms of use</a></li><li><a href="disclaimer.html">Disclaimer and trademarks</a></li><li><a href="cookies.html">Cookie policy</a></li></ul></div>
+</div>
+<p class="legal-line">&copy; <span data-year>2026</span> Mobile.Direct. An independent website, not affiliated with any carrier, manufacturer, retailer or business with a similar name. Product and carrier names are trademarks of their owners. Prices and specs are estimates; confirm with the provider. Some links may earn us a commission, which never changes a ranking. <a href="disclaimer.html">Full disclosure</a>.</p>
+</div></footer>
+<div class="cookie" id="cookie" hidden role="region" aria-label="Cookie notice"><p>We use cookies to show ads (Google AdSense), play embedded videos and remember your settings. Read the <a href="cookies.html">cookie policy</a>.</p><button class="btn btn-sm" type="button" data-cookie-ok="ok">OK</button></div>
+<aside class="slidein" id="slidein" aria-label="Plan match"><div class="sim"><div class="sim-body"><button class="close" type="button" aria-label="Close">&times;</button><p class="quiz-q">Paying too much for your plan?</p><p class="small">Six questions, about a minute. See your best-fit plan and an estimated yearly saving.</p><a class="btn" href="get-matched.html">Find my plan</a></div></div></aside>
+<script src="assets/js/site.js?v=43013f50" defer></script>
+<script src="assets/js/tools.js?v=8b241766" defer></script>
+<script src="assets/js/esim.js?v=d4ae0e1a" defer></script>
+</body>
+</html>

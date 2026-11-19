@@ -1,0 +1,20 @@
+{
+  "siteName": "Mobile.Direct",
+  "adClient": "ca-pub-6620975821265271",
+  "adSlots": {
+    "inArticle": "",
+    "sidebar": "",
+    "footer": ""
+  },
+  "affiliate": {
+    "airalo": "",
+    "holafly": "",
+    "saily": "",
+    "backmarket": ""
+  },
+  "donation": {
+    "currency": "USD",
+    "presets": [5, 15, 50, 100]
+  },
+  "slideInDelaySeconds": 45
+}

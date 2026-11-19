@@ -1,0 +1,59 @@
+name: Auto-refresh content
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every six hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/news.json"
+      - "data/videos.json"
+      - "data/meta.json"
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: auto-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull fresh headlines and videos
+        run: python scripts/refresh.py
+
+      - name: Rebuild pages and sitemap
+        run: python scripts/build.py
+
+      - name: Commit if anything changed
+        id: commit
+        run: |
+          git config user.name "mobile-direct-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes."
+          else
+            git commit -m "Auto-refresh: headlines, videos and sitemap"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Ask GitHub Pages to rebuild
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages will rebuild on its own schedule."

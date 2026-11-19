@@ -1,0 +1,12 @@
+{
+  "updated": "2026-11-19T02:00:00Z",
+  "channels": [
+    {"name": "Marques Brownlee", "id": "UCBJycsmduvYEL83R_U4JriQ", "topic": "Flagship reviews"},
+    {"name": "Mrwhosetheboss", "id": "UCMiJRAwDNSNzuYeN2uWa0pA", "topic": "Phone comparisons"},
+    {"name": "JerryRigEverything", "id": "UCWFKCr40YwOZQx8FHU_ZqqQ", "topic": "Durability tests"},
+    {"name": "Dave2D", "id": "UCVYamHliCI9rw1tHR1xbkfw", "topic": "Design-focused reviews"},
+    {"name": "Unbox Therapy", "id": "UCsTcErHg8oDvUnTzoqsYeNw", "topic": "First looks"},
+    {"name": "Android Authority", "id": "UCgyqtNWZmIxTx3b6OxTSALw", "topic": "Android news and tips"}
+  ],
+  "videos": []
+}
