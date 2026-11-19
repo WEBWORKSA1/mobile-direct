@@ -47,7 +47,17 @@ jobs:
             echo "No changes."
           else
             git commit -m "Auto-refresh: headlines, videos and sitemap"
-            git push
+            # If main moved while this ran, rebuild on top of it and retry.
+            for attempt in 1 2 3; do
+              if git push; then break; fi
+              git fetch origin main
+              git reset --hard origin/main
+              python scripts/refresh.py
+              python scripts/build.py
+              git add -A
+              if git diff --cached --quiet; then break; fi
+              git commit -m "Auto-refresh: headlines, videos and sitemap"
+            done
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
