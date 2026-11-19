@@ -28,6 +28,9 @@ NEWS_FEEDS = [
     ("Light Reading", "https://www.lightreading.com/rss.xml"),
 ]
 
+# General tech feeds: keep only headlines about phones, networks and mobile services.
+FILTERED = {"9to5Mac", "9to5Google", "MacRumors", "MobileSyrup", "Light Reading"}
+
 TAGS = {
     "iphone": r"\biphone|\bios\b|\bapple\b",
     "android": r"\bandroid\b",
@@ -100,7 +103,7 @@ def refresh_news():
             link = text(it, "link", atom + "link")
             if not title or not link.startswith("http"):
                 continue
-            if source == "Light Reading" and not MOBILE_HINT.search(title):
+            if source in FILTERED and not MOBILE_HINT.search(title):
                 continue
             d = parse_date(text(it, "pubDate", atom + "published", atom + "updated", "{http://purl.org/dc/elements/1.1/}date"))
             items.append({"title": title, "link": link, "source": source, "date": d.strftime("%Y-%m-%dT%H:%M:%SZ"), "tags": tags_for(title)})
