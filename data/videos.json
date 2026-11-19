@@ -1,12 +1,127 @@
 {
-  "updated": "2026-11-19T02:00:00Z",
-  "channels": [
-    {"name": "Marques Brownlee", "id": "UCBJycsmduvYEL83R_U4JriQ", "topic": "Flagship reviews"},
-    {"name": "Mrwhosetheboss", "id": "UCMiJRAwDNSNzuYeN2uWa0pA", "topic": "Phone comparisons"},
-    {"name": "JerryRigEverything", "id": "UCWFKCr40YwOZQx8FHU_ZqqQ", "topic": "Durability tests"},
-    {"name": "Dave2D", "id": "UCVYamHliCI9rw1tHR1xbkfw", "topic": "Design-focused reviews"},
-    {"name": "Unbox Therapy", "id": "UCsTcErHg8oDvUnTzoqsYeNw", "topic": "First looks"},
-    {"name": "Android Authority", "id": "UCgyqtNWZmIxTx3b6OxTSALw", "topic": "Android news and tips"}
-  ],
-  "videos": []
+ "updated": "2026-11-19T02:11:33Z",
+ "channels": [
+  {
+   "name": "Marques Brownlee",
+   "id": "UCBJycsmduvYEL83R_U4JriQ",
+   "topic": "Flagship reviews"
+  },
+  {
+   "name": "Mrwhosetheboss",
+   "id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "topic": "Phone comparisons"
+  },
+  {
+   "name": "JerryRigEverything",
+   "id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
+   "topic": "Durability tests"
+  },
+  {
+   "name": "Dave2D",
+   "id": "UCVYamHliCI9rw1tHR1xbkfw",
+   "topic": "Design-focused reviews"
+  },
+  {
+   "name": "Unbox Therapy",
+   "id": "UCsTcErHg8oDvUnTzoqsYeNw",
+   "topic": "First looks"
+  },
+  {
+   "name": "Android Authority",
+   "id": "UCgyqtNWZmIxTx3b6OxTSALw",
+   "topic": "Android news and tips"
+  }
+ ],
+ "videos": [
+  {
+   "id": "NrF4mkTmuTU",
+   "title": "I Tested Every Single GTA",
+   "channel": "Mrwhosetheboss",
+   "published": "2026-11-19T01:47:12+00:00"
+  },
+  {
+   "id": "KTDJiVpSDTI",
+   "title": "Can You Trust MKBHD?",
+   "channel": "Marques Brownlee",
+   "published": "2026-11-17T18:39:57+00:00"
+  },
+  {
+   "id": "Wwq6lvZ5PPA",
+   "title": "In Search of the Ultimate Pocket Camera... XTRA MUSE 2 PRO",
+   "channel": "Unbox Therapy",
+   "published": "2026-11-17T16:06:16+00:00"
+  },
+  {
+   "id": "GKoI7qSDW7g",
+   "title": "I Wore Meta's New Smart Glasses for a Week. I Don’t Get It.",
+   "channel": "Android Authority",
+   "published": "2026-11-16T14:00:23+00:00"
+  },
+  {
+   "id": "k8W0Eb7sKss",
+   "title": "ONE PHONE TO RULE THEM ALL",
+   "channel": "JerryRigEverything",
+   "published": "2026-11-07T19:12:05+00:00"
+  },
+  {
+   "id": "m8lhB9qFhYo",
+   "title": "MacBook Pro OLED Review - Is Touch ACTUALLY Useful?",
+   "channel": "Dave2D",
+   "published": "2026-11-05T14:03:51+00:00"
+  },
+  {
+   "id": "awjlMCCdqXw",
+   "title": "The Dark Side of China’s Perfect Cars",
+   "channel": "Mrwhosetheboss",
+   "published": "2026-11-17T11:43:40+00:00"
+  },
+  {
+   "id": "hdMszZ2ah5Q",
+   "title": "Macbook PROLED Review: It's Not About That",
+   "channel": "Marques Brownlee",
+   "published": "2026-11-11T18:43:56+00:00"
+  },
+  {
+   "id": "HVLUtJWlcJY",
+   "title": "I Tested 42 Years of Phones!",
+   "channel": "Mrwhosetheboss",
+   "published": "2026-11-09T12:37:47+00:00"
+  },
+  {
+   "id": "_x58r9TBois",
+   "title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+   "channel": "Marques Brownlee",
+   "published": "2026-11-06T21:29:30+00:00"
+  },
+  {
+   "id": "Yg2t5w8vj5Q",
+   "title": "I Tested the Most Downloaded 3D Printed Tech!",
+   "channel": "Mrwhosetheboss",
+   "published": "2026-11-04T11:09:51+00:00"
+  },
+  {
+   "id": "g6Die8gVFn0",
+   "title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+   "channel": "Marques Brownlee",
+   "published": "2026-11-03T14:01:31+00:00"
+  },
+  {
+   "id": "gHZ7JYPOd1M",
+   "title": "The NEW MacBook Pro - First Impressions",
+   "channel": "Dave2D",
+   "published": "2026-10-29T00:45:18+00:00"
+  },
+  {
+   "id": "1vj_AHonNdA",
+   "title": "iPhone Duo Review - \"Apple Knows Best\"",
+   "channel": "Dave2D",
+   "published": "2026-10-21T13:40:13+00:00"
+  },
+  {
+   "id": "ZedAs9P7yE8",
+   "title": "The Laptop for 71% of People",
+   "channel": "Dave2D",
+   "published": "2026-10-05T15:17:20+00:00"
+  }
+ ]
 }
