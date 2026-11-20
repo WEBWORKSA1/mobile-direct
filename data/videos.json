@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:11:33Z",
+ "updated": "2026-11-20T00:36:06Z",
  "channels": [
   {
    "name": "Marques Brownlee",
@@ -34,8 +34,14 @@
  ],
  "videos": [
   {
+   "id": "7EKY6xxGVr4",
+   "title": "We Tested the BEST Gaming Tech for GTA 6!",
+   "channel": "Android Authority",
+   "published": "2026-11-19T20:31:10+00:00"
+  },
+  {
    "id": "NrF4mkTmuTU",
-   "title": "I Tested Every Single GTA",
+   "title": "Why GTA is a Bigger Deal Than You Think",
    "channel": "Mrwhosetheboss",
    "published": "2026-11-19T01:47:12+00:00"
   },
@@ -52,12 +58,6 @@
    "published": "2026-11-17T16:06:16+00:00"
   },
   {
-   "id": "GKoI7qSDW7g",
-   "title": "I Wore Meta's New Smart Glasses for a Week. I Don’t Get It.",
-   "channel": "Android Authority",
-   "published": "2026-11-16T14:00:23+00:00"
-  },
-  {
    "id": "k8W0Eb7sKss",
    "title": "ONE PHONE TO RULE THEM ALL",
    "channel": "JerryRigEverything",
@@ -70,10 +70,22 @@
    "published": "2026-11-05T14:03:51+00:00"
   },
   {
+   "id": "8f-DdoAvSHc",
+   "title": "Android Authority's Best Black Friday Deals 2026",
+   "channel": "Android Authority",
+   "published": "2026-11-19T20:04:21+00:00"
+  },
+  {
    "id": "awjlMCCdqXw",
    "title": "The Dark Side of China’s Perfect Cars",
    "channel": "Mrwhosetheboss",
    "published": "2026-11-17T11:43:40+00:00"
+  },
+  {
+   "id": "GKoI7qSDW7g",
+   "title": "I Wore Meta's New Smart Glasses for a Week. I Don’t Get It.",
+   "channel": "Android Authority",
+   "published": "2026-11-16T14:00:23+00:00"
   },
   {
    "id": "hdMszZ2ah5Q",
