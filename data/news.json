@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-24T22:23:41Z",
+ "updated": "2026-11-25T08:27:20Z",
  "items": [
+  {
+   "title": "Gemini’s floating overlay now helps you compare prices, check warranty terms across shopping apps",
+   "link": "https://www.androidauthority.com/google-gemini-overlay-shopping-context-suggestions-3739210/",
+   "source": "Android Authority",
+   "date": "2026-11-25T08:13:40Z",
+   "tags": []
+  },
+  {
+   "title": "Samsung promises One UI 9.5 will fix rapidly declining battery health on Galaxy phones",
+   "link": "https://www.androidauthority.com/samsung-one-ui-9-5-battery-health-fix-3739202/",
+   "source": "Android Authority",
+   "date": "2026-11-25T08:09:59Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "OnePlus Nord 7 leaks with an RGB light strip and a downgraded display",
+   "link": "https://www.androidauthority.com/oneplus-nord-7-leak-3739177/",
+   "source": "Android Authority",
+   "date": "2026-11-25T07:28:49Z",
+   "tags": []
+  },
+  {
+   "title": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more",
+   "link": "https://www.androidauthority.com/google-messages-gemini-tasks-3739189/",
+   "source": "Android Authority",
+   "date": "2026-11-25T06:58:17Z",
+   "tags": []
+  },
+  {
+   "title": "Motorola Signature 27 demand pushes US delivery dates into December",
+   "link": "https://www.androidauthority.com/motorola-signature-27-shipping-delays-3739165/",
+   "source": "Android Authority",
+   "date": "2026-11-25T06:11:27Z",
+   "tags": []
+  },
+  {
+   "title": "T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more",
+   "link": "https://www.androidauthority.com/t-mobile-black-friday-2026-deals-3739162/",
+   "source": "Android Authority",
+   "date": "2026-11-25T04:46:44Z",
+   "tags": [
+    "samsung",
+    "pixel",
+    "carriers",
+    "deals"
+   ]
+  },
+  {
+   "title": "Your chaotic Google Messages group chats might finally get threaded replies",
+   "link": "https://www.androidcentral.com/apps-software/your-chaotic-google-messages-group-chats-might-finally-get-threaded-replies",
+   "source": "Android Central",
+   "date": "2026-11-25T04:28:08Z",
+   "tags": []
+  },
+  {
+   "title": "HUAWEI found guilty of conspiracy to steal trade secrets in the US",
+   "link": "https://www.androidauthority.com/huawei-us-guilty-verdict-3739157/",
+   "source": "Android Authority",
+   "date": "2026-11-25T04:02:04Z",
+   "tags": []
+  },
+  {
+   "title": "Google explains why your Nest camera is missing some features in the Home app",
+   "link": "https://www.androidauthority.com/google-home-nest-camera-migration-3739151/",
+   "source": "Android Authority",
+   "date": "2026-11-25T03:28:28Z",
+   "tags": []
+  },
+  {
+   "title": "Apple Mail added four convenient new features in iOS 27",
+   "link": "https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/",
+   "source": "9to5Mac",
+   "date": "2026-11-24T23:56:12Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions",
+   "link": "https://9to5google.com/2026/11/24/motorola-signature-27-delivery-dates-slip-ahead-of-launch-as-it-expands-to-more-regions/",
+   "source": "9to5Google",
+   "date": "2026-11-24T23:54:33Z",
+   "tags": []
+  },
   {
    "title": "Android Auto is rolling out a new app navigation layout perfect for wide displays",
    "link": "https://www.androidauthority.com/android-auto-app-layout-3739081/",
@@ -252,31 +338,10 @@
    ]
   },
   {
-   "title": "HONOR’s first wide foldable is tipped for a March 2027 launch with a seamless new hinge",
-   "link": "https://www.androidauthority.com/honor-wide-foldable-march-2027-launch-creaseless-display-3738885/",
-   "source": "Android Authority",
-   "date": "2026-11-24T15:30:11Z",
-   "tags": []
-  },
-  {
-   "title": "Save 63% on the HyperX Cloud Jet ahead of Black Friday",
-   "link": "https://www.androidauthority.com/hyperx-cloud-jet-black-friday-deal-3738910/",
-   "source": "Android Authority",
-   "date": "2026-11-24T15:26:41Z",
-   "tags": []
-  },
-  {
    "title": "Motorola Razr (2027) reportedly gets big upgrades and an early January launch",
    "link": "https://9to5google.com/2026/11/24/motorola-razr-2027-upgrades-launch/",
    "source": "9to5Google",
    "date": "2026-11-24T15:22:50Z",
-   "tags": []
-  },
-  {
-   "title": "CMF Buds 2a noise canceling earbuds drop to a record-low $17.89",
-   "link": "https://www.androidauthority.com/cmf-buds-2a-deal-3738909/",
-   "source": "Android Authority",
-   "date": "2026-11-24T15:07:18Z",
    "tags": []
   },
   {
@@ -298,39 +363,12 @@
    ]
   },
   {
-   "title": "JBL Tune 510BT headphones are 60% off in a record-low deal",
-   "link": "https://www.androidauthority.com/jbl-tune-510bt-deal-3738908/",
-   "source": "Android Authority",
-   "date": "2026-11-24T14:50:46Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Garmin Vivoactive 5 drops to a new low with $148 off",
-   "link": "https://www.androidauthority.com/garmin-vivoactive-5-record-low-deal-3738907/",
-   "source": "Android Authority",
-   "date": "2026-11-24T14:42:00Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
    "title": "Galaxy S27 Ultra leak reveals Samsung is stripping away another camera feature",
    "link": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultra-leak-reveals-samsung-is-stripping-away-another-camera-feature",
    "source": "Android Central",
    "date": "2026-11-24T14:41:22Z",
    "tags": [
     "samsung"
-   ]
-  },
-  {
-   "title": "Apple AirTag 2 hits a record-low $18 ahead of Black Friday",
-   "link": "https://www.androidauthority.com/apple-airtag-2-record-low-deal-3738906/",
-   "source": "Android Authority",
-   "date": "2026-11-24T14:38:58Z",
-   "tags": [
-    "iphone"
    ]
   },
   {
@@ -358,25 +396,6 @@
    "date": "2026-11-24T14:18:34Z",
    "tags": [
     "iphone"
-   ]
-  },
-  {
-   "title": "HUAWEI’s new Watch Air is slimmer and lighter than any Pixel Watch or Galaxy Watch ever",
-   "link": "https://www.androidauthority.com/huawei-watch-air-launched-3738764/",
-   "source": "Android Authority",
-   "date": "2026-11-24T14:14:37Z",
-   "tags": [
-    "samsung",
-    "pixel"
-   ]
-  },
-  {
-   "title": "Pack light with UGREEN’s tiny Nexode Air 100W charger at 32% off",
-   "link": "https://www.androidauthority.com/ugreen-nexode-air-100w-deal-3738526/",
-   "source": "Android Authority",
-   "date": "2026-11-24T14:13:51Z",
-   "tags": [
-    "deals"
    ]
   },
   {
@@ -429,15 +448,6 @@
    "link": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/",
    "source": "MacRumors",
    "date": "2026-11-24T12:30:12Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "TIME’s Top 100 Photos of 2026 list includes a shot taken on iPhone 18 Pro",
-   "link": "https://9to5mac.com/2026/11/24/times-top-100-photos-of-2026-list-includes-a-shot-taken-on-iphone-18-pro/",
-   "source": "9to5Mac",
-   "date": "2026-11-24T12:18:30Z",
    "tags": [
     "iphone"
    ]
@@ -533,15 +543,6 @@
    "tags": [
     "pixel",
     "deals"
-   ]
-  },
-  {
-   "title": "Claude rolling out updated Android app with Material 3 Expressive redesign",
-   "link": "https://9to5google.com/2026/11/23/claude-android-material-3-update/",
-   "source": "9to5Google",
-   "date": "2026-11-23T22:15:00Z",
-   "tags": [
-    "android"
    ]
   },
   {
@@ -688,15 +689,6 @@
     "samsung",
     "carriers",
     "deals"
-   ]
-  },
-  {
-   "title": "The Xiaomi 18 Pro's back display is its killer feature — and I hope it comes to more Android phones",
-   "link": "https://www.androidcentral.com/phones/xiaomi/the-xiaomi-18-pro-back-display-is-a-masterpiece-and-google-needs-to-add-it-to-android",
-   "source": "Android Central",
-   "date": "2026-11-23T04:49:08Z",
-   "tags": [
-    "android"
    ]
   }
  ]
