@@ -1,6 +1,131 @@
 {
- "updated": "2026-11-25T21:39:02Z",
+ "updated": "2026-11-26T08:12:02Z",
  "items": [
+  {
+   "title": "Motorola’s Android 17 update breaks cover screen calling features for some Razr users",
+   "link": "https://www.androidauthority.com/motorola-razr-android-17-cover-screen-dialer-issues-3739610/",
+   "source": "Android Authority",
+   "date": "2026-11-26T08:07:51Z",
+   "tags": [
+    "android"
+   ]
+  },
+  {
+   "title": "Poll: Is text selection still too finicky on Android phones?",
+   "link": "https://www.androidauthority.com/android-text-selection-poll-3739460/",
+   "source": "Android Authority",
+   "date": "2026-11-26T07:57:58Z",
+   "tags": [
+    "android"
+   ]
+  },
+  {
+   "title": "Google says Gemini’s Chrome RAM-hogging issue is finally resolved",
+   "link": "https://www.androidauthority.com/google-gemini-chrome-ram-hogging-issue-fixed-3739606/",
+   "source": "Android Authority",
+   "date": "2026-11-26T07:41:31Z",
+   "tags": []
+  },
+  {
+   "title": "The best Black Friday deals for Android handhelds",
+   "link": "https://www.androidauthority.com/best-black-friday-deals-android-handhelds-3739566/",
+   "source": "Android Authority",
+   "date": "2026-11-26T07:15:33Z",
+   "tags": [
+    "android",
+    "deals"
+   ]
+  },
+  {
+   "title": "The Galaxy S26 Ultra and Z Fold 8 Ultra get 24K gold editions for Christmas",
+   "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-z-fold-8-ultra-gold-editions-3739575/",
+   "source": "Android Authority",
+   "date": "2026-11-26T06:59:44Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "Galaxy S27 Pro and Ultra dummy units leaked in hands-on video",
+   "link": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-dummy-units-hands-on-leak-3739584/",
+   "source": "Android Authority",
+   "date": "2026-11-26T06:59:27Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "1Password confirms hackers stole customer data, but not their passwords",
+   "link": "https://www.androidauthority.com/1password-data-breach-3739555/",
+   "source": "Android Authority",
+   "date": "2026-11-26T05:05:13Z",
+   "tags": []
+  },
+  {
+   "title": "1Password confirms backend data breach — here’s what hackers actually stole",
+   "link": "https://www.androidcentral.com/apps-software/1password-confirms-backend-data-breach-heres-what-hackers-actually-stole",
+   "source": "Android Central",
+   "date": "2026-11-26T04:11:53Z",
+   "tags": []
+  },
+  {
+   "title": "Google’s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors",
+   "link": "https://9to5google.com/2026/11/25/googles-pixelsnap-ring-stand-gets-first-sale-that-includes-new-pixel-11-colors/",
+   "source": "9to5Google",
+   "date": "2026-11-25T23:35:00Z",
+   "tags": [
+    "pixel",
+    "deals"
+   ]
+  },
+  {
+   "title": "Buying a new phone this Black Friday? Don’t overlook the network behind it",
+   "link": "https://mobilesyrup.com/2026/11/25/bell-tech-gifts-holidays/",
+   "source": "MobileSyrup",
+   "date": "2026-11-25T23:17:18Z",
+   "tags": []
+  },
+  {
+   "title": "Google Home is sorting out issues with speakers, cameras, lights, and more",
+   "link": "https://www.androidauthority.com/google-home-updates-2-3739543/",
+   "source": "Android Authority",
+   "date": "2026-11-25T22:52:07Z",
+   "tags": []
+  },
+  {
+   "title": "Some iPhone apps are abusing Live Activities, push notifications to send ads",
+   "link": "https://mobilesyrup.com/2026/11/25/iphone-apps-abusing-live-activities-ads/",
+   "source": "MobileSyrup",
+   "date": "2026-11-25T22:49:15Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "Motorola Signature 27 hands-on: Pure elegance on display",
+   "link": "https://9to5google.com/2026/11/25/motorola-signature-27-hands-on/",
+   "source": "9to5Google",
+   "date": "2026-11-25T22:12:17Z",
+   "tags": []
+  },
+  {
+   "title": "Screens can now turn iPhone Duo into a tiny MacBook",
+   "link": "https://9to5mac.com/2026/11/25/screens-can-now-turn-iphone-duo-into-a-tiny-macbook/",
+   "source": "9to5Mac",
+   "date": "2026-11-25T22:10:00Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "WhatsApp preps travel eSIM discovery, installation, and management tools",
+   "link": "https://www.androidauthority.com/whatsapp-travel-esim-3739505/",
+   "source": "Android Authority",
+   "date": "2026-11-25T21:37:14Z",
+   "tags": [
+    "esim"
+   ]
+  },
   {
    "title": "9to5Google’s Best of 2026",
    "link": "https://9to5google.com/2026/11/25/9to5googles-best-of-2026/",
@@ -413,40 +538,6 @@
    "tags": []
   },
   {
-   "title": "Anker’s 100W Universal Charger gets its first discount at 25% off",
-   "link": "https://www.androidauthority.com/anker-universal-charger-100w-deal-3738938/",
-   "source": "Android Authority",
-   "date": "2026-11-25T13:22:11Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Motorola’s Android 17 update fixes Android Auto connections on folded Razr phones",
-   "link": "https://www.androidauthority.com/motorola-razr-android-17-android-auto-fix-3739365/",
-   "source": "Android Authority",
-   "date": "2026-11-25T13:18:36Z",
-   "tags": [
-    "android"
-   ]
-  },
-  {
-   "title": "Google Messages is testing a revamped voice messaging and media viewer interface",
-   "link": "https://www.androidauthority.com/google-messages-voice-message-media-redesign-apk-teardown-3739332/",
-   "source": "Android Authority",
-   "date": "2026-11-25T13:18:32Z",
-   "tags": []
-  },
-  {
-   "title": "Sony WH-1000XM4C get their first big discount at $102 off",
-   "link": "https://www.androidauthority.com/sony-wh-1000xm4c-deal-3738982/",
-   "source": "Android Authority",
-   "date": "2026-11-25T12:31:15Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
    "title": "I trawled the Black Friday sales to track down the best budget Android phone deals with huge savings on Motorola, Samsung, Nothing, and more",
    "link": "https://www.androidcentral.com/phones/i-trawled-the-black-friday-sales-to-track-down-the-best-budget-android-phone-deals-with-huge-savings-on-motorola-samsung-nothing-and-more",
    "source": "Android Central",
@@ -455,45 +546,6 @@
     "android",
     "samsung",
     "deals"
-   ]
-  },
-  {
-   "title": "Prime members can grab UGREEN’s 10,000mAh power bank for $19.99",
-   "link": "https://www.androidauthority.com/ugreen-10000mah-power-bank-deal-3739092/",
-   "source": "Android Authority",
-   "date": "2026-11-25T12:17:10Z",
-   "tags": []
-  },
-  {
-   "title": "Nothing Phone (4a) Pro drops to $397.99, its lowest price yet",
-   "link": "https://www.androidauthority.com/nothing-phone-4a-pro-black-friday-deal-3739123/",
-   "source": "Android Authority",
-   "date": "2026-11-25T12:14:35Z",
-   "tags": []
-  },
-  {
-   "title": "Sony’s ULT Field 3 speaker drops 39% to a record low",
-   "link": "https://www.androidauthority.com/sony-ult-field-3-deal-3738984/",
-   "source": "Android Authority",
-   "date": "2026-11-25T11:46:18Z",
-   "tags": []
-  },
-  {
-   "title": "One UI 9.5 may try to sell you Samsung Care Plus if you drop your Galaxy phone",
-   "link": "https://www.androidauthority.com/one-ui-9-5-samsung-care-plus-drop-notifications-apk-teardown-3739234/",
-   "source": "Android Authority",
-   "date": "2026-11-25T11:38:31Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "Samsung Galaxy Z TriFold 2 codename leak hints at another limited release",
-   "link": "https://www.androidauthority.com/galaxy-z-trifold-2-codename-global-launch-leak-3739313/",
-   "source": "Android Authority",
-   "date": "2026-11-25T11:35:17Z",
-   "tags": [
-    "samsung"
    ]
   },
   {
@@ -543,15 +595,6 @@
    "source": "Android Central",
    "date": "2026-11-25T04:28:08Z",
    "tags": []
-  },
-  {
-   "title": "Apple Mail added four convenient new features in iOS 27",
-   "link": "https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/",
-   "source": "9to5Mac",
-   "date": "2026-11-24T23:56:12Z",
-   "tags": [
-    "iphone"
-   ]
   },
   {
    "title": "Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions",
@@ -632,50 +675,6 @@
    "link": "https://www.androidcentral.com/accessories/smart-home/i-bought-both-the-echo-spot-and-echo-time-smart-speakers-and-theres-only-one-im-keeping-on-my-nightstand-this-black-friday",
    "source": "Android Central",
    "date": "2026-11-24T17:20:05Z",
-   "tags": []
-  },
-  {
-   "title": "I compared the heavily discounted Echo Dot Max and 5th Gen Echo Dot to find out which is the best deal this Black Friday",
-   "link": "https://www.androidcentral.com/accessories/audio/i-compared-the-heavily-discounted-echo-dot-max-and-5th-gen-echo-dot-to-find-out-which-is-the-best-deal-this-black-friday",
-   "source": "Android Central",
-   "date": "2026-11-24T16:30:24Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Galaxy S27 Ultra leak reveals Samsung is stripping away another camera feature",
-   "link": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultra-leak-reveals-samsung-is-stripping-away-another-camera-feature",
-   "source": "Android Central",
-   "date": "2026-11-24T14:41:22Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "Android Central CES 2027 Awards: How to enter your product",
-   "link": "https://www.androidcentral.com/phones/android-central-ces-2027-awards-how-to-enter-your-product",
-   "source": "Android Central",
-   "date": "2026-11-24T14:29:52Z",
-   "tags": [
-    "android"
-   ]
-  },
-  {
-   "title": "Eurobites: BICS, Airtel Africa upgrade roaming partnership",
-   "link": "https://www.lightreading.com/operations/eurobites-bics-airtel-africa-upgrade-roaming-partnership",
-   "source": "Light Reading",
-   "date": "2026-11-24T13:49:16Z",
-   "tags": [
-    "esim",
-    "carriers"
-   ]
-  },
-  {
-   "title": "Google Gemini AI gets a token saving update that anyone can appreciate — and better native file support",
-   "link": "https://www.androidcentral.com/apps-software/ai/google-gemini-ai-gets-a-token-saving-update-that-anyone-can-appreciate-and-better-native-file-support",
-   "source": "Android Central",
-   "date": "2026-11-24T13:12:29Z",
    "tags": []
   }
  ]
