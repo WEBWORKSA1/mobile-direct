@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-26T21:28:09Z",
+ "updated": "2026-11-27T08:23:44Z",
  "items": [
+  {
+   "title": "Oura is dropping Android 11 support in December, and users risk losing health data",
+   "link": "https://www.androidauthority.com/oura-android-11-support-end-3740718/",
+   "source": "Android Authority",
+   "date": "2026-11-27T08:14:58Z",
+   "tags": [
+    "android"
+   ]
+  },
+  {
+   "title": "Samsung phones can soon nudge you when you miss your usual charging window",
+   "link": "https://www.androidauthority.com/samsung-missed-charging-window-3740683/",
+   "source": "Android Authority",
+   "date": "2026-11-27T08:11:50Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026",
+   "link": "https://www.androidauthority.com/tcl-csot-dtc-2026-3736005/",
+   "source": "Android Authority",
+   "date": "2026-11-27T07:56:56Z",
+   "tags": []
+  },
+  {
+   "title": "I've compared these two Fitbit models to see which one is best for you this Black Friday — do you want performance, or affordability?",
+   "link": "https://www.androidcentral.com/wearables/fitbit/ive-compared-these-two-fitbit-models-to-see-which-one-is-best-for-you-this-black-friday-do-you-want-performance-or-affordability",
+   "source": "Android Central",
+   "date": "2026-11-27T07:48:48Z",
+   "tags": []
+  },
+  {
+   "title": "OnePlus 15 and 15R ColorOS 17 update adds auto PC unlocking, smarter photo storage, and more",
+   "link": "https://www.androidauthority.com/oneplus-15-15r-coloros-17-automatic-pc-unlock-3740697/",
+   "source": "Android Authority",
+   "date": "2026-11-27T07:06:48Z",
+   "tags": []
+  },
+  {
+   "title": "Samsung Messages could soon find, send, and forward texts for you",
+   "link": "https://www.androidauthority.com/samsung-messages-hands-free-texting-update-3740679/",
+   "source": "Android Authority",
+   "date": "2026-11-27T05:45:34Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "ANBERNIC’s next Snapdragon-powered Game Boy-like handheld comes with active cooling",
+   "link": "https://www.androidauthority.com/anbernic-rg-47g1-teased-snapdragon-120hz-3740662/",
+   "source": "Android Authority",
+   "date": "2026-11-27T04:24:40Z",
+   "tags": []
+  },
+  {
+   "title": "Motorola’s 2027 Pantone Color of the Year phone could come in this shade",
+   "link": "https://www.androidauthority.com/motorola-pantone-color-of-the-year-2027-leak-3740670/",
+   "source": "Android Authority",
+   "date": "2026-11-27T04:11:16Z",
+   "tags": []
+  },
+  {
+   "title": "Android just had one of its worst quarters, and Apple is benefiting",
+   "link": "https://www.androidauthority.com/android-global-sales-share-q3-2026-counterpoint-3740661/",
+   "source": "Android Authority",
+   "date": "2026-11-27T03:41:19Z",
+   "tags": [
+    "iphone",
+    "android"
+   ]
+  },
+  {
+   "title": "OnePlus reveals ColorOS 17 plans for native apps, paid AI features, and more",
+   "link": "https://www.androidauthority.com/oneplus-coloros-17-ama-native-apps-ai-features-3740647/",
+   "source": "Android Authority",
+   "date": "2026-11-26T21:54:46Z",
+   "tags": [
+    "carriers"
+   ]
+  },
+  {
+   "title": "Black Friday has made smart video doorbells ridiculously cheap — here are 5 deals starting at $22",
+   "link": "https://www.androidcentral.com/accessories/smart-home/smart-doorbells-deals-bf-2026",
+   "source": "Android Central",
+   "date": "2026-11-26T21:28:40Z",
+   "tags": [
+    "deals"
+   ]
+  },
   {
    "title": "Report: Apple accounted for 57% of US smartphone shipments in Q3",
    "link": "https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3/",
@@ -280,29 +370,6 @@
    ]
   },
   {
-   "title": "JBL Go 5 pocket speaker drops under $40 on Amazon",
-   "link": "https://www.androidauthority.com/jbl-go-5-deal-3739437/",
-   "source": "Android Authority",
-   "date": "2026-11-26T13:45:02Z",
-   "tags": []
-  },
-  {
-   "title": "UGREEN MagFlow Qi2.2 Slim power bank drops 20% for Prime members",
-   "link": "https://www.androidauthority.com/ugreen-magflow-qi2-2-slim-power-bank-deal-3739520/",
-   "source": "Android Authority",
-   "date": "2026-11-26T13:27:50Z",
-   "tags": []
-  },
-  {
-   "title": "Amazon’s newest Echo Show 8 is half off for Black Friday",
-   "link": "https://www.androidauthority.com/amazon-echo-show-8-black-friday-deal-3739434/",
-   "source": "Android Authority",
-   "date": "2026-11-26T13:26:57Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
    "title": "Apple Still Working on Giant Foldable iPad That Could Cost $5,000",
    "link": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/",
    "source": "MacRumors",
@@ -310,13 +377,6 @@
    "tags": [
     "iphone"
    ]
-  },
-  {
-   "title": "Sonos Five drops $160 for Black Friday, matching last year’s price",
-   "link": "https://www.androidauthority.com/sonos-five-black-friday-deal-3739490/",
-   "source": "Android Authority",
-   "date": "2026-11-26T13:04:46Z",
-   "tags": []
   },
   {
    "title": "The best Black Friday Android flagship smartphone deals: find the right phone for you",
@@ -329,15 +389,6 @@
    ]
   },
   {
-   "title": "Android Auto is working on a new Details page for easier bug reporting",
-   "link": "https://www.androidauthority.com/android-auto-details-page-icons-app-lock-apk-teardown-3739686/",
-   "source": "Android Authority",
-   "date": "2026-11-26T12:57:03Z",
-   "tags": [
-    "android"
-   ]
-  },
-  {
    "title": "iPhones Dominate China's Weak Singles' Day Smartphone Sales",
    "link": "https://www.macrumors.com/2026/11/26/iphones-dominate-china-singles-day-sales/",
    "source": "MacRumors",
@@ -347,42 +398,10 @@
    ]
   },
   {
-   "title": "Motorola Razr Ultra 2026 gets $200 off for Black Friday",
-   "link": "https://www.androidauthority.com/motorola-razr-ultra-2026-deal-amazon-3739492/",
-   "source": "Android Authority",
-   "date": "2026-11-26T12:49:39Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Logitech G515 Lightspeed TKL keyboard hits a record low of $74.99",
-   "link": "https://www.androidauthority.com/logitech-g515-tkl-deal-3739516/",
-   "source": "Android Authority",
-   "date": "2026-11-26T12:48:18Z",
-   "tags": []
-  },
-  {
    "title": "These bumper Black Friday Chromebook deals prove that capable computing doesn't have to cost an arm and a leg",
    "link": "https://www.androidcentral.com/chromebooks-laptops/these-bumper-black-friday-chromebook-deals-prove-that-capable-computing-doesnt-have-to-cost-an-arm-and-a-leg",
    "source": "Android Central",
    "date": "2026-11-26T12:37:23Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "You can now change YouTube’s app icon on your phone, but only if you pay for it",
-   "link": "https://www.androidauthority.com/youtube-new-app-icons-2-3739722/",
-   "source": "Android Authority",
-   "date": "2026-11-26T12:32:04Z",
-   "tags": []
-  },
-  {
-   "title": "Best Black Friday deals: Big discounts on phones, smartwatches, and more",
-   "link": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
-   "source": "Android Authority",
-   "date": "2026-11-26T12:30:00Z",
    "tags": [
     "deals"
    ]
@@ -497,19 +516,10 @@
    "tags": []
   },
   {
-   "title": "Report: Apple gains ground as Latin American smartphone shipments plunge 24% in Q3",
-   "link": "https://9to5mac.com/2026/11/25/report-apple-gains-ground-as-latin-american-smartphone-shipments-plunge-24-in-q3/",
-   "source": "9to5Mac",
-   "date": "2026-11-25T20:22:28Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
    "title": "Rumor: iOS 28 to Revamp Notifications",
    "link": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
    "source": "MacRumors",
-   "date": "2026-11-25T20:12:36Z",
+   "date": "2026-11-25T19:58:06Z",
    "tags": [
     "iphone"
    ]
@@ -520,15 +530,6 @@
    "source": "Android Central",
    "date": "2026-11-25T19:49:28Z",
    "tags": []
-  },
-  {
-   "title": "iOS 27.3 release date: Here’s when new iPhone features are coming",
-   "link": "https://9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
-   "source": "9to5Mac",
-   "date": "2026-11-25T19:38:33Z",
-   "tags": [
-    "iphone"
-   ]
   },
   {
    "title": "‘Old’ Galaxy phones are a better deal; here’s what you should buy",
@@ -613,22 +614,21 @@
    ]
   },
   {
-   "title": "How To Get an iPhone Duo or iPhone 18 Pro at No Cost Through T-Mobile for Black Friday",
-   "link": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
-   "source": "MacRumors",
-   "date": "2026-11-25T17:22:01Z",
-   "tags": [
-    "iphone",
-    "carriers"
-   ]
-  },
-  {
    "title": "Android Auto update improves support for wide displays, but not everyone will see it [Gallery]",
    "link": "https://9to5google.com/2026/11/25/android-auto-wide-display-update/",
    "source": "9to5Google",
    "date": "2026-11-25T17:20:00Z",
    "tags": [
     "android"
+   ]
+  },
+  {
+   "title": "iPhone 18 Pro Max Battery Exhausts a Toy Cyclops in New Apple Ad",
+   "link": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
+   "source": "MacRumors",
+   "date": "2026-11-25T17:16:43Z",
+   "tags": [
+    "iphone"
    ]
   },
   {
@@ -693,10 +693,10 @@
    "tags": []
   },
   {
-   "title": "3 ways Rogers Xfinity is simplifying the entertainment experience for Canadians",
-   "link": "https://mobilesyrup.com/2026/11/25/rogers-xfinity-entertainment-streaming/",
-   "source": "MobileSyrup",
-   "date": "2026-11-25T14:56:10Z",
+   "title": "T-Mobile goes all-in to connect Las Vegas Grand Prix",
+   "link": "https://www.lightreading.com/5g/t-mobile-goes-all-in-to-connect-las-vegas-grand-prix",
+   "source": "Light Reading",
+   "date": "2026-11-25T14:00:00Z",
    "tags": [
     "carriers"
    ]
