@@ -1,30 +1,625 @@
 {
- "updated": "2026-11-27T08:23:44Z",
+ "updated": "2026-11-27T21:13:30Z",
  "items": [
   {
-   "title": "Oura is dropping Android 11 support in December, and users risk losing health data",
-   "link": "https://www.androidauthority.com/oura-android-11-support-end-3740718/",
+   "title": "There are a few in-store Black Friday carrier deals, if you hunt for them",
+   "link": "https://mobilesyrup.com/2026/11/27/black-friday-in-store-carrier-deals/",
+   "source": "MobileSyrup",
+   "date": "2026-11-27T20:55:39Z",
+   "tags": [
+    "carriers",
+    "deals"
+   ]
+  },
+  {
+   "title": "Get up to $375 in PC points with phone purchases at The Mobile Shop",
+   "link": "https://mobilesyrup.com/2026/11/27/mobile-shop-black-friday-375-pc-optimum-points/",
+   "source": "MobileSyrup",
+   "date": "2026-11-27T20:00:32Z",
+   "tags": []
+  },
+  {
+   "title": "The new Beats 360 headphones just had a $100 Black Friday price drop to beat Sony's flagship deal",
+   "link": "https://www.androidcentral.com/accessories/headphones/the-new-beats-360-headphones-just-had-a-usd100-black-friday-price-drop-to-beat-sonys-flagship-deal",
+   "source": "Android Central",
+   "date": "2026-11-27T19:43:31Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Google Play Black Friday deals: Loads of Android games and apps on sale today",
+   "link": "https://9to5toys.com/2026/11/27/google-play-black-friday-deals/",
+   "source": "9to5Google",
+   "date": "2026-11-27T19:29:59Z",
+   "tags": [
+    "android",
+    "deals"
+   ]
+  },
+  {
+   "title": "The OnePlus ColorOS 17 update is proving to be a disappointment for fans",
+   "link": "https://9to5google.com/2026/11/27/the-oneplus-coloros-17-update-is-proving-to-be-a-disappointment-for-fans/",
+   "source": "9to5Google",
+   "date": "2026-11-27T19:27:57Z",
+   "tags": []
+  },
+  {
+   "title": "LineageOS 24 PC port brings Android 17 to your spare laptop",
+   "link": "https://www.androidauthority.com/lineageos-pc-port-3741004/",
    "source": "Android Authority",
-   "date": "2026-11-27T08:14:58Z",
+   "date": "2026-11-27T19:26:29Z",
    "tags": [
     "android"
    ]
   },
   {
-   "title": "Samsung phones can soon nudge you when you miss your usual charging window",
-   "link": "https://www.androidauthority.com/samsung-missed-charging-window-3740683/",
-   "source": "Android Authority",
-   "date": "2026-11-27T08:11:50Z",
+   "title": "CAA members can get a $40/125GB Rogers plan for Black Friday",
+   "link": "https://mobilesyrup.com/2026/11/27/rogers-red-wireless-caa-member-40-125gb-black-friday/",
+   "source": "MobileSyrup",
+   "date": "2026-11-27T19:19:49Z",
+   "tags": [
+    "carriers"
+   ]
+  },
+  {
+   "title": "I’m so glad I didn’t give up on the Galaxy Z Fold 8",
+   "link": "https://9to5google.com/2026/11/27/i-didnt-give-up-on-the-galaxy-z-fold-8/",
+   "source": "9to5Google",
+   "date": "2026-11-27T19:15:00Z",
    "tags": [
     "samsung"
    ]
   },
   {
-   "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026",
-   "link": "https://www.androidauthority.com/tcl-csot-dtc-2026-3736005/",
-   "source": "Android Authority",
-   "date": "2026-11-27T07:56:56Z",
+   "title": "Review: The Alexa Tablet 12 Pro is Amazon’s first iPad alternative I actually want to use",
+   "link": "https://9to5google.com/2026/11/27/amazon-alexa-tablet-12-pro-review/",
+   "source": "9to5Google",
+   "date": "2026-11-27T19:00:00Z",
    "tags": []
+  },
+  {
+   "title": "YouTube’s latest mobile redesign lets you like videos without opening them",
+   "link": "https://www.androidauthority.com/youtube-home-feed-redesign-shorts-engagement-buttons-3740986/",
+   "source": "Android Authority",
+   "date": "2026-11-27T18:38:49Z",
+   "tags": []
+  },
+  {
+   "title": "You can upgrade your old smart TV for just $30 this Black Friday",
+   "link": "https://www.androidcentral.com/streaming-tv/amazon-fire-tv/you-can-upgrade-your-old-smart-tv-for-just-usd30-this-black-friday",
+   "source": "Android Central",
+   "date": "2026-11-27T18:24:26Z",
+   "tags": []
+  },
+  {
+   "title": "The Pixel Watch 5 just hit a new low of $284 on Black Friday",
+   "link": "https://9to5google.com/2026/11/27/pixel-watch-5-black-friday-deal-2026/",
+   "source": "9to5Google",
+   "date": "2026-11-27T18:18:50Z",
+   "tags": [
+    "pixel"
+   ]
+  },
+  {
+   "title": "The best wireless Android Auto + CarPlay adapter I’ve used gets a rare discount for Black Friday",
+   "link": "https://9to5google.com/2026/11/27/aawireless-android-auto-carplay-wireless-adapter-black-friday-sale/",
+   "source": "9to5Google",
+   "date": "2026-11-27T18:05:00Z",
+   "tags": [
+    "android",
+    "deals"
+   ]
+  },
+  {
+   "title": "Three new iPhones will launch early next year, here’s what’s coming",
+   "link": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
+   "source": "9to5Mac",
+   "date": "2026-11-27T17:57:23Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "The 9 best Google Pixel Black Friday deals: Folds, Buds, Watches and more",
+   "link": "https://www.androidcentral.com/phones/the-best-google-pixel-black-friday-deals-folds-buds-watches-and-more",
+   "source": "Android Central",
+   "date": "2026-11-27T17:55:10Z",
+   "tags": [
+    "pixel",
+    "deals"
+   ]
+  },
+  {
+   "title": "Public Mobile ups $35 plan to 40GB of data on Black Friday",
+   "link": "https://mobilesyrup.com/2026/11/27/public-mobile-black-friday-35-40gb-plan/",
+   "source": "MobileSyrup",
+   "date": "2026-11-27T17:54:30Z",
+   "tags": [
+    "carriers"
+   ]
+  },
+  {
+   "title": "Soundcore Nebula P1i projector drops to a record-low $279",
+   "link": "https://www.androidauthority.com/nebula-p1i-projector-deal-3740617/",
+   "source": "Android Authority",
+   "date": "2026-11-27T17:53:25Z",
+   "tags": []
+  },
+  {
+   "title": "Talk about a deal—Garmin's Fenix 8 is a fantastically overpowered watch with a fantastic Black Friday price drop",
+   "link": "https://www.androidcentral.com/wearables/garmin/talk-about-a-deal-garmins-fenix-8-fantastically-overpowered-watch-fantastic-black-friday-price-drop",
+   "source": "Android Central",
+   "date": "2026-11-27T17:32:03Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "The man behind Wind Mobile is bringing a new carrier to Canada",
+   "link": "https://mobilesyrup.com/2026/11/27/wind-mobile-anthony-lacavera-new-canada-carrier/",
+   "source": "MobileSyrup",
+   "date": "2026-11-27T17:27:06Z",
+   "tags": [
+    "carriers"
+   ]
+  },
+  {
+   "title": "The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming",
+   "link": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
+   "source": "MacRumors",
+   "date": "2026-11-27T17:21:07Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "Meta Quest 3S bundle with XBOX: this Black Friday deal feels like leftover Thanksgiving food—nothing but delicious",
+   "link": "https://www.androidcentral.com/gaming/virtual-reality/meta-quest-3s-bundle-xbox-black-friday-deal-leftover-thanksgiving-food-nothing-but-delicious",
+   "source": "Android Central",
+   "date": "2026-11-27T17:17:38Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Upgrade to a Google TV this Black Friday with prices starting at just $160 and discounts of up to $1,200",
+   "link": "https://www.androidcentral.com/streaming-tv/youtube-tv/xx-tvs",
+   "source": "Android Central",
+   "date": "2026-11-27T17:11:33Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Don’t know which Kindle to buy this Black Friday? Two of Amazon’s cheapest models compared to get you reading",
+   "link": "https://www.androidcentral.com/tablets/kindle/dont-know-which-kindle-to-buy-this-black-friday-two-of-amazons-cheapest-models-compared-to-get-you-reading",
+   "source": "Android Central",
+   "date": "2026-11-27T17:04:57Z",
+   "tags": []
+  },
+  {
+   "title": "iPhone Duo Diary: Pros & cons in early real-life use",
+   "link": "https://9to5mac.com/2026/11/27/iphone-duo-diary-pros-cons-in-early-real-life-use/",
+   "source": "9to5Mac",
+   "date": "2026-11-27T17:00:00Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "Ecovacs Deebot X12 OmniCyclone robot vacuum is 50% off",
+   "link": "https://www.androidauthority.com/ecovacs-deebot-x12-omnicyclone-deal-3740957/",
+   "source": "Android Authority",
+   "date": "2026-11-27T16:58:53Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Black Friday deals: Galaxy Z Fold 8 at least $450 off, Echo smart displays $100 off, Pixel Watch 5 $115 off, more",
+   "link": "https://9to5google.com/2026/11/27/black-friday-deals-fold-8-echo-smart-display-pixel-watch-5/",
+   "source": "9to5Google",
+   "date": "2026-11-27T16:57:55Z",
+   "tags": [
+    "samsung",
+    "pixel",
+    "deals"
+   ]
+  },
+  {
+   "title": "TCL’s Note A1 NXTPAPER note-taking tablet is $150 off",
+   "link": "https://www.androidauthority.com/tcl-note-a1-nxtpaper-deal-3740621/",
+   "source": "Android Authority",
+   "date": "2026-11-27T16:50:40Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Like clockwork, the Pixel 11 is a way better buy after a few months [Video]",
+   "link": "https://9to5google.com/2026/11/27/like-clockwork-the-pixel-11-is-a-way-better-buy-after-a-few-months-video/",
+   "source": "9to5Google",
+   "date": "2026-11-27T16:45:00Z",
+   "tags": [
+    "pixel"
+   ]
+  },
+  {
+   "title": "Amazon’s newest Ring Battery Doorbell beats Nest with 2K, and it’s only $39 right now",
+   "link": "https://9to5google.com/2026/11/27/ring-battery-doorbell-2k-cameras-black-friday-2026/",
+   "source": "9to5Google",
+   "date": "2026-11-27T16:44:53Z",
+   "tags": [
+    "carriers"
+   ]
+  },
+  {
+   "title": "Google Pixel prepares new ‘Priority Notifications’ feature – here’s what it will do",
+   "link": "https://9to5google.com/2026/11/27/google-pixel-prepares-new-priority-notifications-feature-heres-what-it-will-do/",
+   "source": "9to5Google",
+   "date": "2026-11-27T16:30:00Z",
+   "tags": [
+    "pixel"
+   ]
+  },
+  {
+   "title": "Bookworms, assemble! Amazon’s best budget Kindle is even cheaper this Black Friday",
+   "link": "https://www.androidcentral.com/tablets/kindle/bookworms-assemble-amazons-best-budget-kindle-is-even-cheaper-this-black-friday",
+   "source": "Android Central",
+   "date": "2026-11-27T16:29:11Z",
+   "tags": []
+  },
+  {
+   "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
+   "link": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
+   "source": "Android Authority",
+   "date": "2026-11-27T16:26:00Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "Black Friday cut prices on Nothing Phone 4a Pro, Headphone 1—don't think you'll break the bank on this pair",
+   "link": "https://www.androidcentral.com/phones/nothing-phones/black-friday-cut-prices-nothing-phone-4a-pro-headphone-1-dont-think-youll-break-the-bank-on-this-pair",
+   "source": "Android Central",
+   "date": "2026-11-27T16:21:45Z",
+   "tags": []
+  },
+  {
+   "title": "Hisense U7 Mini-LED TV hits a record low with $700 off",
+   "link": "https://www.androidauthority.com/hisense-65-inch-u7-black-friday-deal-3740954/",
+   "source": "Android Authority",
+   "date": "2026-11-27T16:19:32Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Google app’s Images tab may get a major redesign with more control over your feed",
+   "link": "https://www.androidauthority.com/google-app-images-tab-collections-ai-mode-apk-teardown-3740851/",
+   "source": "Android Authority",
+   "date": "2026-11-27T16:17:13Z",
+   "tags": []
+  },
+  {
+   "title": "The 60+ Best Black Friday Accessory Deals on iPhone Chargers, TVs, Headphones, and More",
+   "link": "https://www.macrumors.com/2026/11/27/60-best-black-friday-accessory-deals/",
+   "source": "MacRumors",
+   "date": "2026-11-27T16:06:21Z",
+   "tags": [
+    "iphone",
+    "deals"
+   ]
+  },
+  {
+   "title": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming",
+   "link": "https://www.androidauthority.com/google-ai-mode-library-pin-rename-threads-3740893/",
+   "source": "Android Authority",
+   "date": "2026-11-27T16:04:15Z",
+   "tags": []
+  },
+  {
+   "title": "TCL NXTPAPER 70 Pro drops to a record low of $259.99",
+   "link": "https://www.androidauthority.com/tcl-nxtpaper-70-pro-black-friday-deal-3740934/",
+   "source": "Android Authority",
+   "date": "2026-11-27T15:47:21Z",
+   "tags": []
+  },
+  {
+   "title": "Belkin’s 45W USB-C charger two-pack hits a record low of $24.99",
+   "link": "https://www.androidauthority.com/belkin-45w-charger-2-pack-deal-3740569/",
+   "source": "Android Authority",
+   "date": "2026-11-27T15:38:55Z",
+   "tags": []
+  },
+  {
+   "title": "Android app developers will have to publicly post address, phone number in 2027",
+   "link": "https://9to5google.com/2026/11/27/android-app-developers-will-have-to-publicly-post-address-phone-number-in-2027/",
+   "source": "9to5Google",
+   "date": "2026-11-27T15:35:00Z",
+   "tags": [
+    "android"
+   ]
+  },
+  {
+   "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
+   "link": "https://9to5mac.com/2026/11/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
+   "source": "9to5Mac",
+   "date": "2026-11-27T15:31:52Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "TCL’s 55-inch F8D Fire TV drops $160 for Black Friday",
+   "link": "https://www.androidauthority.com/tcl-55-inch-f8d-fire-tv-deal-3740918/",
+   "source": "Android Authority",
+   "date": "2026-11-27T15:23:27Z",
+   "tags": []
+  },
+  {
+   "title": "Microsoft’s 2026 Surface Laptop gets a record $500 price cut",
+   "link": "https://www.androidauthority.com/surface-laptop-2026-black-friday-deal-3740917/",
+   "source": "Android Authority",
+   "date": "2026-11-27T15:15:45Z",
+   "tags": []
+  },
+  {
+   "title": "The Galaxy S26 Ultra just got a massive $450 discount with no trade-in required",
+   "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-galaxy-s26-ultra-is-now-under-usd-1000-without-a-trade-in",
+   "source": "Android Central",
+   "date": "2026-11-27T15:09:54Z",
+   "tags": [
+    "samsung",
+    "deals"
+   ]
+  },
+  {
+   "title": "CRTC says Bell, Rogers, Telus violated junk fee rules",
+   "link": "https://mobilesyrup.com/2026/11/27/crtc-bell-rogers-telus-junk-fee-rules/",
+   "source": "MobileSyrup",
+   "date": "2026-11-27T15:05:54Z",
+   "tags": [
+    "carriers"
+   ]
+  },
+  {
+   "title": "Sony WF-C510 earbuds drop to $41.95, their lowest in months",
+   "link": "https://www.androidauthority.com/sony-wf-c510-deal-3740883/",
+   "source": "Android Authority",
+   "date": "2026-11-27T14:53:00Z",
+   "tags": []
+  },
+  {
+   "title": "iOS 27.3 adds limits for these advanced features, details here",
+   "link": "https://9to5mac.com/2026/11/27/ios-27-3-adds-limits-for-these-advanced-features-details-here/",
+   "source": "9to5Mac",
+   "date": "2026-11-27T14:50:41Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "Samsung’s LTE Galaxy Watch 8 hits a record low of $249.99",
+   "link": "https://www.androidauthority.com/galaxy-watch-8-lte-deal-black-friday-3740623/",
+   "source": "Android Authority",
+   "date": "2026-11-27T14:48:52Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "WhatsApp is adding travel eSIMs",
+   "link": "https://9to5google.com/2026/11/27/whatsapp-is-adding-travel-esims/",
+   "source": "9to5Google",
+   "date": "2026-11-27T14:45:00Z",
+   "tags": [
+    "esim"
+   ]
+  },
+  {
+   "title": "PSA: Amazon’s 2026 Kindle back panels are popping off when owners remove their cases",
+   "link": "https://www.androidauthority.com/amazon-kindle-2026-back-panel-issue-3740856/",
+   "source": "Android Authority",
+   "date": "2026-11-27T14:36:26Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon",
+   "link": "https://www.androidauthority.com/shokz-openfit-2-plus-deal-3740882/",
+   "source": "Android Authority",
+   "date": "2026-11-27T14:28:44Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Sennheiser Momentum 4 headphones hit a record low with $140 off",
+   "link": "https://www.androidauthority.com/sennheiser-momentum-4-record-low-deal-3740881/",
+   "source": "Android Authority",
+   "date": "2026-11-27T14:14:53Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Best Black Friday deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs, more [Updated]",
+   "link": "https://9to5google.com/2026/11/27/best-thanksgiving-deals-pixel-galaxy-chargers/",
+   "source": "9to5Google",
+   "date": "2026-11-27T14:09:00Z",
+   "tags": [
+    "pixel",
+    "deals"
+   ]
+  },
+  {
+   "title": "Black Friday knocks $450 off the Samsung Galaxy S26 Ultra",
+   "link": "https://www.androidauthority.com/galaxy-s26-ultra-black-friday-deal-3740547/",
+   "source": "Android Authority",
+   "date": "2026-11-27T13:51:26Z",
+   "tags": [
+    "samsung",
+    "deals"
+   ]
+  },
+  {
+   "title": "iPhone 18 Production Delay Leaves Apple Little Time Before Launch",
+   "link": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/",
+   "source": "MacRumors",
+   "date": "2026-11-27T13:48:42Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "Samsung’s biggest Galaxy Z Fold 8 discounts yet are live, up to $900 for some",
+   "link": "https://9to5google.com/2026/11/27/samsung-galaxy-z-fold-8-black-friday-deal/",
+   "source": "9to5Google",
+   "date": "2026-11-27T13:45:00Z",
+   "tags": [
+    "samsung",
+    "deals"
+   ]
+  },
+  {
+   "title": "Bark and Garmin have Black Friday kids’ smartwatch deals you won’t want to refuse",
+   "link": "https://9to5google.com/2026/11/27/garmin-bark-watch-black-friday-deals-2026/",
+   "source": "9to5Google",
+   "date": "2026-11-27T13:30:01Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Sony’s WI-C100 wireless earbuds drop to $23 with 42% off",
+   "link": "https://www.androidauthority.com/sony-wi-c100-black-friday-deal-3740573/",
+   "source": "Android Authority",
+   "date": "2026-11-27T13:27:53Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Watch our Black Friday livestream for a chance to WIN a $250 Amazon gift card!",
+   "link": "https://www.androidauthority.com/black-friday-livestream-amazon-gift-card-giveaway-2026-3740849/",
+   "source": "Android Authority",
+   "date": "2026-11-27T13:23:05Z",
+   "tags": []
+  },
+  {
+   "title": "Gemini Live is testing a new Activity tab for all your agentic tasks",
+   "link": "https://www.androidauthority.com/google-gemini-live-tasks-scheduled-compose-box-apk-teardown-3740800/",
+   "source": "Android Authority",
+   "date": "2026-11-27T13:18:35Z",
+   "tags": []
+  },
+  {
+   "title": "The Disney+ and Hulu bundle is even cheaper for Black Friday, and it gets you over 50% off for a year — but it’ll be gone very soon",
+   "link": "https://www.androidcentral.com/streaming-tv/disney-plus/the-disney-and-hulu-bundle-is-even-cheaper-for-black-friday-and-it-gets-you-over-50-percent-off-for-a-year-but-itll-be-gone-very-soon",
+   "source": "Android Central",
+   "date": "2026-11-27T13:18:29Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Galaxy Z Fold 8 Ultra drops $450 to a record low",
+   "link": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-black-friday-deal-3740563/",
+   "source": "Android Authority",
+   "date": "2026-11-27T13:13:29Z",
+   "tags": [
+    "samsung"
+   ]
+  },
+  {
+   "title": "Google Health won’t let users manually add rests between workout sets",
+   "link": "https://www.androidauthority.com/google-health-custom-workout-rest-intervals-issues-3740812/",
+   "source": "Android Authority",
+   "date": "2026-11-27T13:13:27Z",
+   "tags": []
+  },
+  {
+   "title": "The Best Black Friday iPhone Deals",
+   "link": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
+   "source": "MacRumors",
+   "date": "2026-11-27T12:58:27Z",
+   "tags": [
+    "iphone",
+    "deals"
+   ]
+  },
+  {
+   "title": "Sony’s BRAVIA Theater Bar 5 hits a record-low $248",
+   "link": "https://www.androidauthority.com/sony-bravia-theater-bar-5-deal-3740574/",
+   "source": "Android Authority",
+   "date": "2026-11-27T12:54:39Z",
+   "tags": []
+  },
+  {
+   "title": "South Korea wraps up nationwide 5G SA deployment, eyes tiered service plans",
+   "link": "https://www.lightreading.com/5g/south-korea-wraps-up-nationwide-5g-sa-deployment-eyes-tiered-service-plans",
+   "source": "Light Reading",
+   "date": "2026-11-27T12:22:01Z",
+   "tags": [
+    "5g",
+    "carriers"
+   ]
+  },
+  {
+   "title": "Eurobites: Elisa, Drei claim roaming breakthrough with 5G SA",
+   "link": "https://www.lightreading.com/wireless/eurobites-elisa-drei-claim-roaming-breakthrough-with-5g-sa",
+   "source": "Light Reading",
+   "date": "2026-11-27T12:12:18Z",
+   "tags": [
+    "5g",
+    "esim"
+   ]
+  },
+  {
+   "title": "iPhone Share of US Smartphone Market Hits 57% as Rivals Slip",
+   "link": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+   "source": "MacRumors",
+   "date": "2026-11-27T11:53:24Z",
+   "tags": [
+    "iphone"
+   ]
+  },
+  {
+   "title": "The trendiest folding phone of the summer has plummeted by $400 and is now at a new Amazon lowest-ever price",
+   "link": "https://www.androidcentral.com/phones/samsung-galaxy/the-trendiest-folding-phone-of-the-summer-has-plummeted-by-usd400-and-is-now-at-a-new-amazon-lowest-ever-price",
+   "source": "Android Central",
+   "date": "2026-11-27T11:51:24Z",
+   "tags": []
+  },
+  {
+   "title": "Can’t find any good Fitbit Air Black Friday discounts? This screenless alternative packs similar smarts and is subscription-free",
+   "link": "https://www.androidcentral.com/wearables/we-cant-find-any-good-fitbit-air-black-friday-discounts-but-this-screenless-alternative-packs-similar-smarts-and-is-subscription-free",
+   "source": "Android Central",
+   "date": "2026-11-27T11:08:12Z",
+   "tags": [
+    "deals"
+   ]
+  },
+  {
+   "title": "Don't rush to buy an iPad this Black Friday — this cheaper Android alternative beats it on some key specs",
+   "link": "https://www.androidcentral.com/tablets/lenovo/dont-rush-to-buy-an-ipad-this-black-friday-this-cheaper-android-alternative-beats-it-on-some-key-specs",
+   "source": "Android Central",
+   "date": "2026-11-27T10:47:04Z",
+   "tags": [
+    "android"
+   ]
+  },
+  {
+   "title": "iPhone 20 Pro Rumored to Feature 3D-Printed Titanium Frame",
+   "link": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
+   "source": "MacRumors",
+   "date": "2026-11-27T10:19:12Z",
+   "tags": [
+    "iphone"
+   ]
   },
   {
    "title": "I've compared these two Fitbit models to see which one is best for you this Black Friday — do you want performance, or affordability?",
@@ -34,141 +629,10 @@
    "tags": []
   },
   {
-   "title": "OnePlus 15 and 15R ColorOS 17 update adds auto PC unlocking, smarter photo storage, and more",
-   "link": "https://www.androidauthority.com/oneplus-15-15r-coloros-17-automatic-pc-unlock-3740697/",
-   "source": "Android Authority",
-   "date": "2026-11-27T07:06:48Z",
-   "tags": []
-  },
-  {
-   "title": "Samsung Messages could soon find, send, and forward texts for you",
-   "link": "https://www.androidauthority.com/samsung-messages-hands-free-texting-update-3740679/",
-   "source": "Android Authority",
-   "date": "2026-11-27T05:45:34Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "ANBERNIC’s next Snapdragon-powered Game Boy-like handheld comes with active cooling",
-   "link": "https://www.androidauthority.com/anbernic-rg-47g1-teased-snapdragon-120hz-3740662/",
-   "source": "Android Authority",
-   "date": "2026-11-27T04:24:40Z",
-   "tags": []
-  },
-  {
-   "title": "Motorola’s 2027 Pantone Color of the Year phone could come in this shade",
-   "link": "https://www.androidauthority.com/motorola-pantone-color-of-the-year-2027-leak-3740670/",
-   "source": "Android Authority",
-   "date": "2026-11-27T04:11:16Z",
-   "tags": []
-  },
-  {
-   "title": "Android just had one of its worst quarters, and Apple is benefiting",
-   "link": "https://www.androidauthority.com/android-global-sales-share-q3-2026-counterpoint-3740661/",
-   "source": "Android Authority",
-   "date": "2026-11-27T03:41:19Z",
-   "tags": [
-    "iphone",
-    "android"
-   ]
-  },
-  {
-   "title": "OnePlus reveals ColorOS 17 plans for native apps, paid AI features, and more",
-   "link": "https://www.androidauthority.com/oneplus-coloros-17-ama-native-apps-ai-features-3740647/",
-   "source": "Android Authority",
-   "date": "2026-11-26T21:54:46Z",
-   "tags": [
-    "carriers"
-   ]
-  },
-  {
    "title": "Black Friday has made smart video doorbells ridiculously cheap — here are 5 deals starting at $22",
    "link": "https://www.androidcentral.com/accessories/smart-home/smart-doorbells-deals-bf-2026",
    "source": "Android Central",
    "date": "2026-11-26T21:28:40Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Report: Apple accounted for 57% of US smartphone shipments in Q3",
-   "link": "https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3/",
-   "source": "9to5Mac",
-   "date": "2026-11-26T21:09:36Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches",
-   "link": "https://www.androidauthority.com/galaxy-watch-9-health-features-older-watches-3740608/",
-   "source": "Android Authority",
-   "date": "2026-11-26T20:39:41Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "Telus met with Quebecor over sale, but concerns remain",
-   "link": "https://mobilesyrup.com/2026/11/26/telus-quebecor-sale-meeting-concerns/",
-   "source": "MobileSyrup",
-   "date": "2026-11-26T20:10:32Z",
-   "tags": [
-    "carriers",
-    "deals"
-   ]
-  },
-  {
-   "title": "XGIMI Vibe One battery-powered projector hits a record low under $200",
-   "link": "https://www.androidauthority.com/xgimi-vibe-one-deal-3740619/",
-   "source": "Android Authority",
-   "date": "2026-11-26T19:42:26Z",
-   "tags": []
-  },
-  {
-   "title": "Pixel users report broken always-on display in Android Auto after November update",
-   "link": "https://www.androidauthority.com/pixel-android-auto-aod-bug-3740588/",
-   "source": "Android Authority",
-   "date": "2026-11-26T18:55:33Z",
-   "tags": [
-    "android",
-    "pixel"
-   ]
-  },
-  {
-   "title": "Bell Internet and Fibe TV services down in Brantford, Ontario",
-   "link": "https://mobilesyrup.com/2026/11/26/bell-internet-and-fibe-tv-services-down-in-brantford-ontario/",
-   "source": "MobileSyrup",
-   "date": "2026-11-26T18:31:11Z",
-   "tags": [
-    "carriers"
-   ]
-  },
-  {
-   "title": "Thanksgiving Android app deals and freebies: Bioweaver, Deus Ex GO, Seoul Exorcist 1111, Hitman GO, more",
-   "link": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free/",
-   "source": "9to5Google",
-   "date": "2026-11-26T18:18:40Z",
-   "tags": [
-    "android",
-    "deals"
-   ]
-  },
-  {
-   "title": "iOS 28 to ‘revamp’ iPhone notifications, per report",
-   "link": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
-   "source": "9to5Mac",
-   "date": "2026-11-26T18:04:57Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds",
-   "link": "https://www.androidauthority.com/sony-inzone-buds-black-friday-deal-3739518/",
-   "source": "Android Authority",
-   "date": "2026-11-26T17:59:58Z",
    "tags": [
     "deals"
    ]
@@ -181,22 +645,6 @@
    "tags": []
   },
   {
-   "title": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now",
-   "link": "https://www.androidauthority.com/white-titan-2-elite-3740551/",
-   "source": "Android Authority",
-   "date": "2026-11-26T17:40:09Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Amazfit Bip Max smartwatch drops to a record low of $89.99",
-   "link": "https://www.androidauthority.com/amazfit-bip-max-deal-3739534/",
-   "source": "Android Authority",
-   "date": "2026-11-26T17:27:54Z",
-   "tags": []
-  },
-  {
    "title": "This Android AirTag alternative is now less than $7 a pop — they're rechargeable, with louder alarms",
    "link": "https://www.androidcentral.com/accessories/this-android-airtag-alternative-is-now-less-than-usd7-a-pop-theyre-rechargeable-with-louder-alarms",
    "source": "Android Central",
@@ -206,31 +654,11 @@
    ]
   },
   {
-   "title": "Black Friday Week deals: Pixel Watch 5 now $285, Pixelsnap Ring Stand, Android Alexa Tablet 12 Pro, Lenovo tabs, more",
-   "link": "https://9to5google.com/2026/11/26/black-friday-deals-pixel-watch-5-pixelsnap-ring-stand-alexa-tablet/",
-   "source": "9to5Google",
-   "date": "2026-11-26T16:51:28Z",
-   "tags": [
-    "android",
-    "pixel",
-    "deals"
-   ]
-  },
-  {
    "title": "Perfect for teens: Motorola is currently selling a smartphone for under $100, so you don't have to worry about paying a fortune for a replacement if they break it",
    "link": "https://www.androidcentral.com/phones/perfect-for-teens-motorola-is-currently-selling-a-smartphone-for-under-usd100-so-you-dont-have-to-worry-about-paying-a-fortune-for-a-replacement-if-they-break-it",
    "source": "Android Central",
    "date": "2026-11-26T16:51:11Z",
    "tags": []
-  },
-  {
-   "title": "Soundcore Liberty 5 earbuds hit a record low at 42% off",
-   "link": "https://www.androidauthority.com/soundcore-liberty-5-record-low-deal-3740503/",
-   "source": "Android Authority",
-   "date": "2026-11-26T16:39:03Z",
-   "tags": [
-    "deals"
-   ]
   },
   {
    "title": "Halide Adds Fill Light Feature for iPhone Duo",
@@ -242,39 +670,11 @@
    ]
   },
   {
-   "title": "Galaxy S26 FE drops to a record low with $200 off",
-   "link": "https://www.androidauthority.com/galaxy-s26-fe-record-low-deal-3740545/",
-   "source": "Android Authority",
-   "date": "2026-11-26T16:08:26Z",
-   "tags": [
-    "samsung",
-    "deals"
-   ]
-  },
-  {
    "title": "The Fitbit Charge 6 is less than $125 this Black Friday, and it’s ideal if you’re serious about getting fit in the new year",
    "link": "https://www.androidcentral.com/wearables/fitbit/the-fitbit-charge-6-is-less-than-usd125-this-black-friday-and-its-ideal-if-youre-serious-about-getting-fit-in-the-new-year",
    "source": "Android Central",
    "date": "2026-11-26T15:51:51Z",
    "tags": []
-  },
-  {
-   "title": "Best Black Friday headphone deals: Sony, Bose, AirPods, and more",
-   "link": "https://www.androidauthority.com/best-black-friday-headphone-deals-3740536/",
-   "source": "Android Authority",
-   "date": "2026-11-26T15:36:55Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time",
-   "link": "https://9to5google.com/2026/11/26/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time/",
-   "source": "9to5Google",
-   "date": "2026-11-26T15:36:19Z",
-   "tags": [
-    "pixel"
-   ]
   },
   {
    "title": "Struggling to make sense of the Black Friday 2026 streaming deals? Our interactive quiz will tell you whether you'll love cheap Apple TV, Paramount+, HBO Max, and more",
@@ -284,421 +684,6 @@
    "tags": [
     "iphone",
     "deals"
-   ]
-  },
-  {
-   "title": "TCL TAB 10 Gen 4 hits a record low under $130",
-   "link": "https://www.androidauthority.com/tcl-tab-10-gen-4-black-friday-deal-3740501/",
-   "source": "Android Authority",
-   "date": "2026-11-26T15:10:17Z",
-   "tags": []
-  },
-  {
-   "title": "Exclusive: Samsung is working on a private cloud for Galaxy AI, and it could look a lot like Apple’s",
-   "link": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
-   "source": "Android Authority",
-   "date": "2026-11-26T15:06:01Z",
-   "tags": [
-    "iphone",
-    "samsung"
-   ]
-  },
-  {
-   "title": "LG’s S6FTR 5.1 soundbar with rear speakers is $180 off",
-   "link": "https://www.androidauthority.com/lg-s6ftr-soundbar-deal-3740504/",
-   "source": "Android Authority",
-   "date": "2026-11-26T14:49:54Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Amazon’s Alexa Tablet 12 Pro is $150 off for Black Friday",
-   "link": "https://www.androidauthority.com/amazon-alexa-tablet-12-pro-deal-3740500/",
-   "source": "Android Authority",
-   "date": "2026-11-26T14:18:55Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Save $230 on Sony WH-1000XM5 headphones in Midnight Blue",
-   "link": "https://www.androidauthority.com/sony-wh-1000xm5-midnight-blue-deal-3740502/",
-   "source": "Android Authority",
-   "date": "2026-11-26T14:10:07Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Best Thanksgiving deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs, more",
-   "link": "https://9to5google.com/2026/11/26/best-thanksgiving-deals-pixel-galaxy-chargers/",
-   "source": "9to5Google",
-   "date": "2026-11-26T14:09:02Z",
-   "tags": [
-    "pixel",
-    "deals"
-   ]
-  },
-  {
-   "title": "Apple Watch Ultra 4 hits a record low with $149 off",
-   "link": "https://www.androidauthority.com/apple-watch-ultra-4-record-low-deal-3740499/",
-   "source": "Android Authority",
-   "date": "2026-11-26T14:03:34Z",
-   "tags": [
-    "iphone",
-    "deals"
-   ]
-  },
-  {
-   "title": "Google’s Pixel Watch 5 Black Friday deal just got even better",
-   "link": "https://www.androidauthority.com/pixel-watch-5-record-low-deal-3740498/",
-   "source": "Android Authority",
-   "date": "2026-11-26T14:00:44Z",
-   "tags": [
-    "pixel",
-    "deals"
-   ]
-  },
-  {
-   "title": "Sketchy suggestion of ceramic iPhone 20 Pro",
-   "link": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro/",
-   "source": "9to5Mac",
-   "date": "2026-11-26T14:00:25Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "Apple Still Working on Giant Foldable iPad That Could Cost $5,000",
-   "link": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/",
-   "source": "MacRumors",
-   "date": "2026-11-26T13:08:39Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "The best Black Friday Android flagship smartphone deals: find the right phone for you",
-   "link": "https://www.androidcentral.com/phones/the-best-black-friday-android-flagship-smartphone-deals-find-the-right-phone-for-you",
-   "source": "Android Central",
-   "date": "2026-11-26T12:59:20Z",
-   "tags": [
-    "android",
-    "deals"
-   ]
-  },
-  {
-   "title": "iPhones Dominate China's Weak Singles' Day Smartphone Sales",
-   "link": "https://www.macrumors.com/2026/11/26/iphones-dominate-china-singles-day-sales/",
-   "source": "MacRumors",
-   "date": "2026-11-26T12:55:48Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "These bumper Black Friday Chromebook deals prove that capable computing doesn't have to cost an arm and a leg",
-   "link": "https://www.androidcentral.com/chromebooks-laptops/these-bumper-black-friday-chromebook-deals-prove-that-capable-computing-doesnt-have-to-cost-an-arm-and-a-leg",
-   "source": "Android Central",
-   "date": "2026-11-26T12:37:23Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Motorola Razr Plus 2025 drops to $500 in a record-low Black Friday deal",
-   "link": "https://www.androidcentral.com/phones/motorola/motorola-razr-plus-2025-drops-to-usd500-in-a-record-low-black-friday-deal",
-   "source": "Android Central",
-   "date": "2026-11-26T12:27:50Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "iPhone 20 Pro Could Feature Ceramic in Limited-Edition Model",
-   "link": "https://www.macrumors.com/2026/11/26/iphone-20-pro-ceramic-limited-edition-model/",
-   "source": "MacRumors",
-   "date": "2026-11-26T12:24:29Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "EE and Ericsson enhance London 5G by putting AI in the RAN",
-   "link": "https://www.lightreading.com/5g/ee-and-ericsson-enhance-london-5g-by-putting-ai-in-the-ran",
-   "source": "Light Reading",
-   "date": "2026-11-26T12:02:57Z",
-   "tags": [
-    "5g",
-    "carriers"
-   ]
-  },
-  {
-   "title": "If there's one tech accessory I'd buy this Black Friday, it's a portable charger: My 5 picks start at just $19",
-   "link": "https://www.androidcentral.com/accessories/power-charging/black-friday-2026-portable-charger-deals",
-   "source": "Android Central",
-   "date": "2026-11-26T11:41:17Z",
-   "tags": []
-  },
-  {
-   "title": "Apple Faces Korean Regulator Review Over iPhone 16 AI Advertising",
-   "link": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
-   "source": "MacRumors",
-   "date": "2026-11-26T11:19:46Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "One UI 9.5 could save your Galaxy S24, S25 from the 9.0 update's battery problems",
-   "link": "https://www.androidcentral.com/phones/samsung-galaxy/one-ui-9-5-could-save-your-galaxy-s24-s25-from-the-9-0-updates-battery-problems",
-   "source": "Android Central",
-   "date": "2026-11-26T11:11:00Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "1Password confirms backend data breach — here’s what hackers actually stole",
-   "link": "https://www.androidcentral.com/apps-software/1password-confirms-backend-data-breach-heres-what-hackers-actually-stole",
-   "source": "Android Central",
-   "date": "2026-11-26T04:11:53Z",
-   "tags": []
-  },
-  {
-   "title": "Google’s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors",
-   "link": "https://9to5google.com/2026/11/25/googles-pixelsnap-ring-stand-gets-first-sale-that-includes-new-pixel-11-colors/",
-   "source": "9to5Google",
-   "date": "2026-11-25T23:35:00Z",
-   "tags": [
-    "pixel",
-    "deals"
-   ]
-  },
-  {
-   "title": "Buying a new phone this Black Friday? Don’t overlook the network behind it",
-   "link": "https://mobilesyrup.com/2026/11/25/bell-tech-gifts-holidays/",
-   "source": "MobileSyrup",
-   "date": "2026-11-25T23:17:18Z",
-   "tags": []
-  },
-  {
-   "title": "Some iPhone apps are abusing Live Activities, push notifications to send ads",
-   "link": "https://mobilesyrup.com/2026/11/25/iphone-apps-abusing-live-activities-ads/",
-   "source": "MobileSyrup",
-   "date": "2026-11-25T22:49:15Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "Motorola Signature 27 hands-on: Pure elegance on display",
-   "link": "https://9to5google.com/2026/11/25/motorola-signature-27-hands-on/",
-   "source": "9to5Google",
-   "date": "2026-11-25T22:12:17Z",
-   "tags": []
-  },
-  {
-   "title": "Screens can now turn iPhone Duo into a tiny MacBook",
-   "link": "https://9to5mac.com/2026/11/25/screens-can-now-turn-iphone-duo-into-a-tiny-macbook/",
-   "source": "9to5Mac",
-   "date": "2026-11-25T22:10:00Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "9to5Google’s Best of 2026",
-   "link": "https://9to5google.com/2026/11/25/9to5googles-best-of-2026/",
-   "source": "9to5Google",
-   "date": "2026-11-25T20:29:37Z",
-   "tags": []
-  },
-  {
-   "title": "Rumor: iOS 28 to Revamp Notifications",
-   "link": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
-   "source": "MacRumors",
-   "date": "2026-11-25T19:58:06Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "The market is suffering, and phone makers are reportedly cutting back drastically in 2027",
-   "link": "https://www.androidcentral.com/phones/the-market-is-suffering-and-phone-makers-are-reportedly-cutting-back-drastically-in-2027",
-   "source": "Android Central",
-   "date": "2026-11-25T19:49:28Z",
-   "tags": []
-  },
-  {
-   "title": "‘Old’ Galaxy phones are a better deal; here’s what you should buy",
-   "link": "https://9to5google.com/2026/11/25/old-galaxy-phones-are-a-better-deal-heres-what-you-should-buy/",
-   "source": "9to5Google",
-   "date": "2026-11-25T19:15:00Z",
-   "tags": [
-    "samsung",
-    "deals"
-   ]
-  },
-  {
-   "title": "‘Enough Phone’ is stuffing a bigger battery, more RAM & storage into its small Android phone at no extra cost",
-   "link": "https://9to5google.com/2026/11/25/enough-phone-ram-storage-battery-upgrades/",
-   "source": "9to5Google",
-   "date": "2026-11-25T19:10:00Z",
-   "tags": [
-    "android"
-   ]
-  },
-  {
-   "title": "Hello Weather is the best Apple Weather app on Android",
-   "link": "https://9to5google.com/2026/11/25/hello-weather-android-apple/",
-   "source": "9to5Google",
-   "date": "2026-11-25T18:44:03Z",
-   "tags": [
-    "iphone",
-    "android"
-   ]
-  },
-  {
-   "title": "Mid-week Android app deals and freebies: Stardew Valley, The Past Within, Almost Out of Mana, more",
-   "link": "https://9to5toys.com/2026/11/25/today-google-play-deals-app-deals-stardew-valley/",
-   "source": "9to5Google",
-   "date": "2026-11-25T18:34:08Z",
-   "tags": [
-    "android",
-    "deals"
-   ]
-  },
-  {
-   "title": "Galaxy Z TriFold 2 rumors see it packaged with Samsung's next summer foldables",
-   "link": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-trifold-2-rumors-see-it-packaged-with-samsungs-next-summer-foldables",
-   "source": "Android Central",
-   "date": "2026-11-25T18:13:46Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "Canadians can now shop Freedom Mobile at Visions Electronics",
-   "link": "https://mobilesyrup.com/2026/11/25/freedom-mobile-visions-electronics-partnership/",
-   "source": "MobileSyrup",
-   "date": "2026-11-25T17:46:42Z",
-   "tags": []
-  },
-  {
-   "title": "Save serious money with RedPocket Mobile’s $5 Black Friday plans",
-   "link": "https://9to5google.com/2026/11/25/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month-sponsored/",
-   "source": "9to5Google",
-   "date": "2026-11-25T17:41:47Z",
-   "tags": [
-    "carriers"
-   ]
-  },
-  {
-   "title": "The best Meta Quest Black Friday deals: Big savings on VR headsets, accessories and gift cards",
-   "link": "https://www.androidcentral.com/gaming/virtual-reality/the-best-meta-quest-black-friday-deals-big-savings-on-vr-headsets-accessories-and-gift-cards",
-   "source": "Android Central",
-   "date": "2026-11-25T17:36:17Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Sneak a peek at the best smart glasses deals this Black Friday: Meta, Ray-Ban, and more",
-   "link": "https://www.androidcentral.com/wearables/sneak-a-peak-at-the-best-smart-glasses-deals-this-black-friday-meta-ray-ban-and-more",
-   "source": "Android Central",
-   "date": "2026-11-25T17:33:02Z",
-   "tags": [
-    "deals"
-   ]
-  },
-  {
-   "title": "Android Auto update improves support for wide displays, but not everyone will see it [Gallery]",
-   "link": "https://9to5google.com/2026/11/25/android-auto-wide-display-update/",
-   "source": "9to5Google",
-   "date": "2026-11-25T17:20:00Z",
-   "tags": [
-    "android"
-   ]
-  },
-  {
-   "title": "iPhone 18 Pro Max Battery Exhausts a Toy Cyclops in New Apple Ad",
-   "link": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
-   "source": "MacRumors",
-   "date": "2026-11-25T17:16:43Z",
-   "tags": [
-    "iphone"
-   ]
-  },
-  {
-   "title": "I spent hours tracking down the 12 best Android tablet deals this Black Friday, with prices starting at under $100",
-   "link": "https://www.androidcentral.com/phones/i-spent-hours-tracking-down-the-12-best-android-tablet-deals-this-black-friday-with-prices-starting-at-under-usd100",
-   "source": "Android Central",
-   "date": "2026-11-25T17:11:03Z",
-   "tags": [
-    "android",
-    "deals"
-   ]
-  },
-  {
-   "title": "Black Friday deals: Galaxy S series phones from $500, A series $230, Legion Go S $710 off, Google Find Hub trackers $16 each, more",
-   "link": "https://9to5google.com/2026/11/25/black-friday-galaxy-phones-legion-go-s-find-hub-tracker/",
-   "source": "9to5Google",
-   "date": "2026-11-25T16:53:07Z",
-   "tags": [
-    "samsung",
-    "deals"
-   ]
-  },
-  {
-   "title": "Canadian C-band 5G is nearly twice as fast as other 5G: analysis",
-   "link": "https://mobilesyrup.com/2026/11/25/canadian-c-band-5g-performance-opensignal/",
-   "source": "MobileSyrup",
-   "date": "2026-11-25T16:50:25Z",
-   "tags": [
-    "5g"
-   ]
-  },
-  {
-   "title": "Nearly every major smartphone brand is slashing targets for 2027",
-   "link": "https://9to5google.com/2026/11/25/nearly-every-major-smartphone-brand-is-slashing-targets-for-2027/",
-   "source": "9to5Google",
-   "date": "2026-11-25T16:15:00Z",
-   "tags": []
-  },
-  {
-   "title": "Samsung’s Galaxy Z Fold 9 lineup looks like it’ll include a new TriFold, leak suggests",
-   "link": "https://9to5google.com/2026/11/25/samsung-galaxy-z-trifold-2-fold-9-leak/",
-   "source": "9to5Google",
-   "date": "2026-11-25T15:30:00Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "The Galaxy A56 is a decent starter phone at just $299 right now",
-   "link": "https://9to5google.com/2026/11/25/the-galaxy-a56-is-a-decent-starter-phone-at-just-299-right-now/",
-   "source": "9to5Google",
-   "date": "2026-11-25T15:16:08Z",
-   "tags": [
-    "samsung"
-   ]
-  },
-  {
-   "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
-   "link": "https://9to5google.com/2026/11/25/nothing-ear-note-ai-recorder-teaser/",
-   "source": "9to5Google",
-   "date": "2026-11-25T14:58:44Z",
-   "tags": []
-  },
-  {
-   "title": "T-Mobile goes all-in to connect Las Vegas Grand Prix",
-   "link": "https://www.lightreading.com/5g/t-mobile-goes-all-in-to-connect-las-vegas-grand-prix",
-   "source": "Light Reading",
-   "date": "2026-11-25T14:00:00Z",
-   "tags": [
-    "carriers"
    ]
   }
  ]
